@@ -1,0 +1,3 @@
+Scenario completato: ChangingWeather.xosc
+Tempo di esecuzione: 1.01s
+Criticità: 0.0

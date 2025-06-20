@@ -1,0 +1,17 @@
+Carla-0.10.0-Win64-Shipping/
+# File troppo grandi
+*.pdb
+*.pcd
+*.uexp
+*.umap
+*.exe
+*.bin
+
+# Cartelle comuni in progetti Unreal/Carla
+Saved/
+Intermediate/
+Binaries/
+
+scenario_runner-0.9.15/
+
+WindowsNoEditor

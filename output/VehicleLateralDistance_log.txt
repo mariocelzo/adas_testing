@@ -1,0 +1,3 @@
+Scenario completato: VehicleLateralDistance.xosc
+Tempo di esecuzione: 0.78s
+Criticità: 0.0
