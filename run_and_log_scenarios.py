@@ -4,6 +4,29 @@ import json
 import os
 import glob
 from collections import defaultdict
+import socket
+import carla  # assicurati che il pacchetto sia importabile
+
+def wait_for_carla_ready(timeout=60):
+    print("[ATTESA] Attesa che CARLA sia pronto...")
+    start_time = time.time()
+    client = carla.Client("localhost", 2000)
+    client.set_timeout(2.0)
+
+    while time.time() - start_time < timeout:
+        try:
+            world = client.get_world()
+            if world.get_map():
+                print("[OK] CARLA è pronto.")
+                return True
+        except RuntimeError:
+            pass
+        except Exception as e:
+            print(f"[AVVISO] In attesa del simulatore... ({e})")
+        time.sleep(1)
+
+    print("[ERRORE] Timeout: CARLA non ha risposto con un mondo valido.")
+    return False
 
 SCENARIO_RUNNER_RESULTS_DIR = os.path.join(os.path.dirname(__file__), "scenario_runner-0.9.15", "results")
 
@@ -15,13 +38,30 @@ diversity_summary = defaultdict(lambda: 0.0)
 def run_scenario(file_path, output_dir):
     scenario_name = os.path.basename(file_path)
     base_name = scenario_name.replace('.xosc', '')
+    if not wait_for_carla_ready():
+        print(f"[ERRORE] CARLA non disponibile, scenario '{scenario_name}' saltato.")
+        return
 
     print(f"[ESECUZIONE] Avvio scenario: {scenario_name}")
 
+    env = os.environ.copy()
+
+    # Percorso personalizzato agli agents della tua build
+    agents_path = r"C:\Users\SeSaLab Tesi\Documents\TesistiAntonioTrovato\adas_testing\WindowsNoEditor\PythonAPI\carla\agents"
+    env["PYTHONPATH"] = agents_path + os.pathsep + env.get("PYTHONPATH", "")
+
+    scenario_runner_path = os.path.abspath("scenario_runner-0.9.15/scenario_runner.py")
+    scenario_file_path = os.path.abspath(file_path)
+
     start = time.time()
     result = subprocess.run(
-        f'python "scenario_runner-0.9.15\\scenario_runner.py" --openscenario "{file_path}" --reloadWorld',
-        shell=True
+        [
+            "python",
+            scenario_runner_path,
+            "--openscenario", scenario_file_path,
+            "--reloadWorld"
+        ],
+        env=env
     )
     end = time.time()
 
@@ -73,9 +113,9 @@ def run_scenario(file_path, output_dir):
 
 if __name__ == "__main__":
     SCENARIO_DIR = os.path.abspath(
-        r"C:\Users\SeSaLab Tesi\Documents\TesistiAntonioTrovato\ADAS_scenario_tool-master\data\carla_scenarios")
+        r"C:\Users\SeSaLab Tesi\Documents\TesistiAntonioTrovato\adas_testing\data\carla_scenarios")
     OUTPUT_DIR = os.path.abspath(
-        r"C:\Users\SeSaLab Tesi\Documents\TesistiAntonioTrovato\ADAS_scenario_tool-master\newtest")
+        r"C:\Users\SeSaLab Tesi\Documents\TesistiAntonioTrovato\adas_testing\newtest")
 
     for file_path in glob.glob(os.path.join(SCENARIO_DIR, "*.xosc")):
         run_scenario(file_path, OUTPUT_DIR)

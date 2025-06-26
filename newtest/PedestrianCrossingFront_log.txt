@@ -1,3 +1,3 @@
 Scenario completato: PedestrianCrossingFront.xosc
-Tempo di esecuzione: 11.46s
+Tempo di esecuzione: 11.3s
 Criticità: 0.0
