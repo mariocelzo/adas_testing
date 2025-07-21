@@ -20,7 +20,7 @@ Grazie a queste caratteristiche, ADAS Tool rappresenta un passo avanti nell'auto
 1️⃣ Clonazione del repository
 
 
-	git clone https://github.com/mariocelzo/adas_scenario_tool.git
+	git clone https://github.com/mariocelzo/adas_testing.git
 
 
 2️⃣ Creazione dell’ambiente virtuale
