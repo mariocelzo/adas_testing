@@ -1,0 +1,302 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753973845.98",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.28529357910156,
+            "y": 6.308760643005371,
+            "z": 0.0024044227320700884
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973848.06",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.287841796875,
+            "y": 6.309274673461914,
+            "z": -0.005639323964715004
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973850.14",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.28985595703125,
+            "y": 6.3102240562438965,
+            "z": -0.003272647736594081
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973852.14",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.29185485839844,
+            "y": 6.3109283447265625,
+            "z": -0.005558986682444811
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973854.21",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.29327392578125,
+            "y": 6.3117499351501465,
+            "z": -0.00900812167674303
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973856.23",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.29644775390625,
+            "y": 6.3126983642578125,
+            "z": 0.0005545234307646751
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973858.24",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.29812622070312,
+            "y": 6.313822269439697,
+            "z": -0.005158519838005304
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973860.27",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.2989959716797,
+            "y": 6.314188480377197,
+            "z": -0.0047647664323449135
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973862.27",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.30116271972656,
+            "y": 6.314978122711182,
+            "z": -0.0001291847147513181
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973864.28",
+        "actor_id": 51664,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 51708,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 183.30409240722656,
+            "y": 6.315999507904053,
+            "z": 0.0024707221891731024
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

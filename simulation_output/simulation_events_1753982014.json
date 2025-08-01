@@ -1,0 +1,212 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753982000.13",
+        "actor_id": 89582,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 89601,
+        "other_actor_type": "vehicle.volkswagen.t2",
+        "impact_location": {
+            "x": -60.5030403137207,
+            "y": 187.4315185546875,
+            "z": -0.03023582324385643
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982002.16",
+        "actor_id": 89582,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 89601,
+        "other_actor_type": "vehicle.volkswagen.t2",
+        "impact_location": {
+            "x": -60.503143310546875,
+            "y": 187.43136596679688,
+            "z": -0.031016025692224503
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982004.22",
+        "actor_id": 89582,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 89601,
+        "other_actor_type": "vehicle.volkswagen.t2",
+        "impact_location": {
+            "x": -60.50296401977539,
+            "y": 187.43145751953125,
+            "z": -0.029379747807979584
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982006.30",
+        "actor_id": 89582,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 89601,
+        "other_actor_type": "vehicle.volkswagen.t2",
+        "impact_location": {
+            "x": -60.50309371948242,
+            "y": 187.43136596679688,
+            "z": -0.03072347491979599
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982008.66",
+        "actor_id": 89582,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 89601,
+        "other_actor_type": "vehicle.volkswagen.t2",
+        "impact_location": {
+            "x": -60.50312805175781,
+            "y": 187.43130493164062,
+            "z": -0.03562618046998978
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982010.77",
+        "actor_id": 89582,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 89601,
+        "other_actor_type": "vehicle.volkswagen.t2",
+        "impact_location": {
+            "x": -60.50314712524414,
+            "y": 187.4312286376953,
+            "z": -0.029972972348332405
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982012.90",
+        "actor_id": 89582,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 89601,
+        "other_actor_type": "vehicle.volkswagen.t2",
+        "impact_location": {
+            "x": -60.50320816040039,
+            "y": 187.43112182617188,
+            "z": -0.030088957399129868
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

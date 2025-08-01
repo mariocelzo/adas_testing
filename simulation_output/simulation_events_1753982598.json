@@ -1,0 +1,92 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753982593.87",
+        "actor_id": 92180,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 92202,
+        "other_actor_type": "vehicle.tesla.cybertruck",
+        "impact_location": {
+            "x": 178.28970336914062,
+            "y": 306.4204406738281,
+            "z": 0.1898701936006546
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982595.89",
+        "actor_id": 92180,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 92202,
+        "other_actor_type": "vehicle.tesla.cybertruck",
+        "impact_location": {
+            "x": 178.29254150390625,
+            "y": 306.42132568359375,
+            "z": 0.18332035839557648
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982598.02",
+        "actor_id": 92180,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 92202,
+        "other_actor_type": "vehicle.tesla.cybertruck",
+        "impact_location": {
+            "x": 178.2938995361328,
+            "y": 306.42108154296875,
+            "z": 0.18259109556674957
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

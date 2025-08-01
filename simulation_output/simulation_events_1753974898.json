@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753974898.57",
+        "actor_id": 56290,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 56337,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 34.926170349121094,
+            "y": 111.40426635742188,
+            "z": 0.04247140884399414
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

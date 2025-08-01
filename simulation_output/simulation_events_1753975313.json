@@ -1,0 +1,182 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753975301.75",
+        "actor_id": 59182,
+        "actor_type": "vehicle.toyota.prius",
+        "other_actor_id": 59192,
+        "other_actor_type": "vehicle.bmw.grandtourer",
+        "impact_location": {
+            "x": -7.529999732971191,
+            "y": 142.19000244140625,
+            "z": 0.25663286447525024
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753975303.91",
+        "actor_id": 59182,
+        "actor_type": "vehicle.toyota.prius",
+        "other_actor_id": 59192,
+        "other_actor_type": "vehicle.bmw.grandtourer",
+        "impact_location": {
+            "x": -7.534596920013428,
+            "y": 142.19119262695312,
+            "z": 0.25518864393234253
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753975305.97",
+        "actor_id": 59182,
+        "actor_type": "vehicle.toyota.prius",
+        "other_actor_id": 59192,
+        "other_actor_type": "vehicle.bmw.grandtourer",
+        "impact_location": {
+            "x": -7.534678936004639,
+            "y": 142.19126892089844,
+            "z": 0.25268620252609253
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753975308.00",
+        "actor_id": 59182,
+        "actor_type": "vehicle.toyota.prius",
+        "other_actor_id": 59192,
+        "other_actor_type": "vehicle.bmw.grandtourer",
+        "impact_location": {
+            "x": -7.534858226776123,
+            "y": 142.1920623779297,
+            "z": 0.25707924365997314
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753975310.01",
+        "actor_id": 59182,
+        "actor_type": "vehicle.toyota.prius",
+        "other_actor_id": 59192,
+        "other_actor_type": "vehicle.bmw.grandtourer",
+        "impact_location": {
+            "x": -7.535266399383545,
+            "y": 142.19374084472656,
+            "z": 0.2565043568611145
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753975312.14",
+        "actor_id": 59182,
+        "actor_type": "vehicle.toyota.prius",
+        "other_actor_id": 59192,
+        "other_actor_type": "vehicle.bmw.grandtourer",
+        "impact_location": {
+            "x": -7.535282611846924,
+            "y": 142.19384765625,
+            "z": 0.2565535604953766
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753994305.98",
+        "actor_id": 43134,
+        "actor_type": "vehicle.chevrolet.impala",
+        "other_actor_id": 43247,
+        "other_actor_type": "vehicle.ford.mustang",
+        "impact_location": {
+            "x": 65.40685272216797,
+            "y": 1.9625577926635742,
+            "z": -0.007350253872573376
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 80.0,
+            "precipitation": 70.0,
+            "precipitation_deposits": 50.0,
+            "wind_intensity": 30.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

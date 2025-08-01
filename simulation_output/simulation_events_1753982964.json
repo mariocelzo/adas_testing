@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753982964.96",
+        "actor_id": 93983,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 94054,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 119.5170669555664,
+            "y": 195.04058837890625,
+            "z": -0.011675967834889889
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

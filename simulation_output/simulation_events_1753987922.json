@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753987922.91",
+        "actor_id": 12228,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 12331,
+        "other_actor_type": "vehicle.bmw.grandtourer",
+        "impact_location": {
+            "x": 283.0222473144531,
+            "y": 195.56936645507812,
+            "z": -0.03015550598502159
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

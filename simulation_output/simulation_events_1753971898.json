@@ -1,0 +1,92 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753971888.85",
+        "actor_id": 41694,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 41711,
+        "other_actor_type": "vehicle.jeep.wrangler_rubicon",
+        "impact_location": {
+            "x": -149.06358337402344,
+            "y": 107.70558166503906,
+            "z": 0.0026236914563924074
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971890.89",
+        "actor_id": 41694,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 41789,
+        "other_actor_type": "vehicle.dodge.charger_police",
+        "impact_location": {
+            "x": -149.05223083496094,
+            "y": 109.40281677246094,
+            "z": 0.0038318061269819736
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971891.38",
+        "actor_id": 41694,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 41711,
+        "other_actor_type": "vehicle.jeep.wrangler_rubicon",
+        "impact_location": {
+            "x": -149.0727081298828,
+            "y": 108.06103515625,
+            "z": 0.0043594930320978165
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

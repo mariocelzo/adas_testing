@@ -1,0 +1,23 @@
+[
+    {
+        "event_type": "no_incidents",
+        "timestamp": "1753970405.91",
+        "message": "No incidents or traffic violations recorded during simulation.",
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "weather": {
+            "cloudiness": 5.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753980338.88",
+        "actor_id": 83440,
+        "actor_type": "vehicle.audi.a2",
+        "other_actor_id": 83453,
+        "other_actor_type": "vehicle.nissan.patrol_2021",
+        "impact_location": {
+            "x": 401.8927917480469,
+            "y": -223.36802673339844,
+            "z": -0.000779170950409025
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 90.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 0.0,
+            "fog_density": 50.0,
+            "sun_altitude_angle": -20.0
+        }
+    }
+]

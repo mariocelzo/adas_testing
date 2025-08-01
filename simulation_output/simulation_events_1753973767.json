@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753973766.90",
+        "actor_id": 50931,
+        "actor_type": "vehicle.diamondback.century",
+        "other_actor_id": 50951,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 116.83444213867188,
+            "y": 129.40713500976562,
+            "z": -0.01747713051736355
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

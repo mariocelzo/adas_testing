@@ -1,0 +1,62 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753997182.46",
+        "actor_id": 56617,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 56630,
+        "other_actor_type": "vehicle.mini.cooper_s",
+        "impact_location": {
+            "x": -96.74613189697266,
+            "y": -84.53971862792969,
+            "z": -0.004919109400361776
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753997184.50",
+        "actor_id": 56617,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 56630,
+        "other_actor_type": "vehicle.mini.cooper_s",
+        "impact_location": {
+            "x": -96.74606323242188,
+            "y": -84.53962707519531,
+            "z": -0.004077014978975058
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

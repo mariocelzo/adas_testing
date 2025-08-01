@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753972807.21",
+        "actor_id": 46576,
+        "actor_type": "vehicle.ford.crown",
+        "other_actor_id": 46609,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 30.118539810180664,
+            "y": 191.5657958984375,
+            "z": 0.23643586039543152
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

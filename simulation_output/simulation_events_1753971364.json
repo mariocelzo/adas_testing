@@ -1,0 +1,92 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753971359.04",
+        "actor_id": 38383,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 38542,
+        "other_actor_type": "vehicle.audi.tt",
+        "impact_location": {
+            "x": 34.37168884277344,
+            "y": -128.51025390625,
+            "z": 0.03916402906179428
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971361.08",
+        "actor_id": 38383,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 38542,
+        "other_actor_type": "vehicle.audi.tt",
+        "impact_location": {
+            "x": 34.37211227416992,
+            "y": -128.5103302001953,
+            "z": 0.03632745519280434
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971363.15",
+        "actor_id": 38383,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 38542,
+        "other_actor_type": "vehicle.audi.tt",
+        "impact_location": {
+            "x": 34.37220764160156,
+            "y": -128.5116424560547,
+            "z": 0.039463289082050323
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

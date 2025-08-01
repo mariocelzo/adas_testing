@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753972423.88",
+        "actor_id": 44569,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 44624,
+        "other_actor_type": "vehicle.jeep.wrangler_rubicon",
+        "impact_location": {
+            "x": 135.93899536132812,
+            "y": 224.79556274414062,
+            "z": 0.20828895270824432
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

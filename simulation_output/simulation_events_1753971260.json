@@ -1,0 +1,122 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753971253.19",
+        "actor_id": 37790,
+        "actor_type": "vehicle.ford.ambulance",
+        "other_actor_id": 37830,
+        "other_actor_type": "vehicle.harley-davidson.low_rider",
+        "impact_location": {
+            "x": 1.540153980255127,
+            "y": 109.40000915527344,
+            "z": 0.21198680996894836
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971255.24",
+        "actor_id": 37790,
+        "actor_type": "vehicle.ford.ambulance",
+        "other_actor_id": 37830,
+        "other_actor_type": "vehicle.harley-davidson.low_rider",
+        "impact_location": {
+            "x": 1.5367170572280884,
+            "y": 109.42638397216797,
+            "z": 0.22478260099887848
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971257.28",
+        "actor_id": 37790,
+        "actor_type": "vehicle.ford.ambulance",
+        "other_actor_id": 37830,
+        "other_actor_type": "vehicle.harley-davidson.low_rider",
+        "impact_location": {
+            "x": 1.5365796089172363,
+            "y": 109.43354034423828,
+            "z": 0.2228919118642807
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971259.28",
+        "actor_id": 37790,
+        "actor_type": "vehicle.ford.ambulance",
+        "other_actor_id": 37830,
+        "other_actor_type": "vehicle.harley-davidson.low_rider",
+        "impact_location": {
+            "x": 1.5363301038742065,
+            "y": 109.43894958496094,
+            "z": 0.21719786524772644
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

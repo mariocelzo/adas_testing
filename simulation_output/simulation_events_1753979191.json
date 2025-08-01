@@ -1,0 +1,62 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753979184.05",
+        "actor_id": 77960,
+        "actor_type": "vehicle.dodge.charger_2020",
+        "other_actor_id": 77988,
+        "other_actor_type": "vehicle.ford.crown",
+        "impact_location": {
+            "x": -6.594831466674805,
+            "y": -208.17323303222656,
+            "z": -6.694793682981981e-06
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753979189.02",
+        "actor_id": 77960,
+        "actor_type": "vehicle.dodge.charger_2020",
+        "other_actor_id": 77988,
+        "other_actor_type": "vehicle.ford.crown",
+        "impact_location": {
+            "x": -19.74257469177246,
+            "y": -208.53875732421875,
+            "z": 0.0003013419918715954
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

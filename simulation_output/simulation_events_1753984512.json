@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753984512.33",
+        "actor_id": 101156,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 101177,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": -41.3900032043457,
+            "y": -91.45645141601562,
+            "z": 0.003405895084142685
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

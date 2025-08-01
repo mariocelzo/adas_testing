@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753990291.25",
+        "actor_id": 24251,
+        "actor_type": "vehicle.dodge.charger_2020",
+        "other_actor_id": 24256,
+        "other_actor_type": "vehicle.volkswagen.t2_2021",
+        "impact_location": {
+            "x": -76.9385986328125,
+            "y": -84.49675750732422,
+            "z": -0.8148963451385498
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

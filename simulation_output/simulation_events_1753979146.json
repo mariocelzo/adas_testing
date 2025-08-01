@@ -1,0 +1,152 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753979137.59",
+        "actor_id": 77705,
+        "actor_type": "vehicle.volkswagen.t2_2021",
+        "other_actor_id": 77729,
+        "other_actor_type": "vehicle.audi.a2",
+        "impact_location": {
+            "x": 222.4978485107422,
+            "y": 198.75917053222656,
+            "z": -0.002124194987118244
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753979139.61",
+        "actor_id": 77705,
+        "actor_type": "vehicle.volkswagen.t2_2021",
+        "other_actor_id": 77729,
+        "other_actor_type": "vehicle.audi.a2",
+        "impact_location": {
+            "x": 222.494384765625,
+            "y": 198.758544921875,
+            "z": 0.0003594779991544783
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753979141.62",
+        "actor_id": 77705,
+        "actor_type": "vehicle.volkswagen.t2_2021",
+        "other_actor_id": 77729,
+        "other_actor_type": "vehicle.audi.a2",
+        "impact_location": {
+            "x": 222.49411010742188,
+            "y": 198.75796508789062,
+            "z": 0.0009593772701919079
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753979143.69",
+        "actor_id": 77705,
+        "actor_type": "vehicle.volkswagen.t2_2021",
+        "other_actor_id": 77729,
+        "other_actor_type": "vehicle.audi.a2",
+        "impact_location": {
+            "x": 222.4939727783203,
+            "y": 198.7571563720703,
+            "z": -0.003231487236917019
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753979145.72",
+        "actor_id": 77705,
+        "actor_type": "vehicle.volkswagen.t2_2021",
+        "other_actor_id": 77729,
+        "other_actor_type": "vehicle.audi.a2",
+        "impact_location": {
+            "x": 222.49501037597656,
+            "y": 198.75540161132812,
+            "z": 0.0009110068785957992
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    }
+]

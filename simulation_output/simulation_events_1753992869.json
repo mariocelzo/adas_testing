@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753992869.62",
+        "actor_id": 36466,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 36559,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 83.96586608886719,
+            "y": 302.54229736328125,
+            "z": 0.2593393325805664
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 80.0,
+            "precipitation": 70.0,
+            "precipitation_deposits": 50.0,
+            "wind_intensity": 30.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

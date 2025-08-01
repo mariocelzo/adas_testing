@@ -25,12 +25,12 @@
         </Properties>
       </Vehicle>
     </ScenarioObject>
+
     <ScenarioObject name="adversary">
-      <Pedestrian model="walker.pedestrian.0001" mass="90.0" name="walker.pedestrian.0001" pedestrianCategory="pedestrian">
-        <ParameterDeclarations/>
+      <Pedestrian model="walker.pedestrian.0001" pedestrianCategory="pedestrian" name="walker.pedestrian.0001" mass="80">
         <BoundingBox>
-          <Center x="1.5" y="0.0" z="0.9"/>
-          <Dimensions width="2.1" length="4.5" height="1.8"/>
+          <Center x="0" y="0" z="0.9"/>
+          <Dimensions width="0.5" length="0.5" height="1.7"/>
         </BoundingBox>
         <Properties>
           <Property name="type" value="simulation"/>
@@ -38,6 +38,7 @@
       </Pedestrian>
     </ScenarioObject>
   </Entities>
+
   <Storyboard>
     <Init>
       <Actions>
@@ -54,6 +55,7 @@
             </Environment>
           </EnvironmentAction>
         </GlobalAction>
+
         <Private entityRef="hero">
           <PrivateAction>
             <TeleportAction>
@@ -82,6 +84,7 @@
             </ControllerAction>
           </PrivateAction>
         </Private>
+
         <Private entityRef="adversary">
           <PrivateAction>
             <TeleportAction>
@@ -93,12 +96,14 @@
         </Private>
       </Actions>
     </Init>
+
     <Story name="MyStory">
       <Act name="Behavior">
         <ManeuverGroup maximumExecutionCount="1" name="ManeuverSequence">
           <Actors selectTriggeringEntities="false">
             <EntityRef entityRef="adversary"/>
           </Actors>
+
           <Maneuver name="PedestrianCrossingManeuver">
             <Event name="PedestrianStartsWalking" priority="overwrite">
               <Action name="PedestrianStartsWalking">
@@ -132,97 +137,9 @@
                 </ConditionGroup>
               </StartTrigger>
             </Event>
-            <Event name="PedestrianStopsAndWaits" priority="overwrite">
-              <Action name="PedestrianStopsAndWaits">
-                <PrivateAction>
-                  <LongitudinalAction>
-                    <SpeedAction>
-                      <SpeedActionDynamics dynamicsShape="step" value="10" dynamicsDimension="time"/>
-                      <SpeedActionTarget>
-                        <AbsoluteTargetSpeed value="0.0"/>
-                      </SpeedActionTarget>
-                    </SpeedAction>
-                  </LongitudinalAction>
-                </PrivateAction>
-              </Action>
-              <StartTrigger>
-                <ConditionGroup>
-                  <Condition name="AfterPedestrianWalks" delay="0" conditionEdge="rising">
-                    <ByValueCondition>
-                      <StoryboardElementStateCondition storyboardElementType="action" storyboardElementRef="PedestrianStartsWalking" state="completeState"/>
-                    </ByValueCondition>
-                  </Condition>
-                </ConditionGroup>
-              </StartTrigger>
-            </Event>
-            <Event name="PedestrianWalksAway" priority="overwrite">
-              <Action name="PedestrianStartsWalkingAway">
-                <PrivateAction>
-                  <LongitudinalAction>
-                    <SpeedAction>
-                      <SpeedActionDynamics dynamicsShape="step" value="6.5" dynamicsDimension="distance"/>
-                      <SpeedActionTarget>
-                        <AbsoluteTargetSpeed value="2.0"/>
-                      </SpeedActionTarget>
-                    </SpeedAction>
-                  </LongitudinalAction>
-                </PrivateAction>
-              </Action>
-              <StartTrigger>
-                <ConditionGroup>
-                  <Condition name="StartCondition" delay="0" conditionEdge="rising">
-                    <ByEntityCondition>
-                      <TriggeringEntities triggeringEntitiesRule="any">
-                        <EntityRef entityRef="hero"/>
-                      </TriggeringEntities>
-                      <EntityCondition>
-                        <StandStillCondition duration="0.1"/>
-                      </EntityCondition>
-                    </ByEntityCondition>
-                  </Condition>
-                  <Condition name="AfterPedestrianStopsAndWaits" delay="0" conditionEdge="rising">
-                    <ByValueCondition>
-                      <StoryboardElementStateCondition storyboardElementType="action" storyboardElementRef="PedestrianStopsAndWaits" state="completeState"/>
-                    </ByValueCondition>
-                  </Condition>
-                </ConditionGroup>
-              </StartTrigger>
-            </Event>
-            <Event name="PedestrianWaits" priority="overwrite">
-              <Action name="PedestrianWaits">
-                <PrivateAction>
-                  <LongitudinalAction>
-                    <SpeedAction>
-                      <SpeedActionDynamics dynamicsShape="step" value="10" dynamicsDimension="time"/>
-                      <SpeedActionTarget>
-                        <AbsoluteTargetSpeed value="0.0"/>
-                      </SpeedActionTarget>
-                    </SpeedAction>
-                  </LongitudinalAction>
-                </PrivateAction>
-              </Action>
-              <StartTrigger>
-                <ConditionGroup>
-                  <Condition name="StartCondition" delay="0" conditionEdge="rising">
-                    <ByEntityCondition>
-                      <TriggeringEntities triggeringEntitiesRule="any">
-                        <EntityRef entityRef="adversary"/>
-                      </TriggeringEntities>
-                      <EntityCondition>
-                        <StandStillCondition duration="0.1"/>
-                      </EntityCondition>
-                    </ByEntityCondition>
-                  </Condition>
-                  <Condition name="AfterPedestrianStartsWalking" delay="0" conditionEdge="rising">
-                    <ByValueCondition>
-                      <StoryboardElementStateCondition storyboardElementType="action" storyboardElementRef="PedestrianStartsWalkingAway" state="completeState"/>
-                    </ByValueCondition>
-                  </Condition>
-                </ConditionGroup>
-              </StartTrigger>
-            </Event>
           </Maneuver>
         </ManeuverGroup>
+
         <StartTrigger>
           <ConditionGroup>
             <Condition name="OverallStartCondition" delay="0" conditionEdge="rising">
@@ -237,6 +154,7 @@
             </Condition>
           </ConditionGroup>
         </StartTrigger>
+
         <StopTrigger>
           <ConditionGroup>
             <Condition name="EndCondition" delay="0" conditionEdge="rising">
@@ -253,41 +171,12 @@
         </StopTrigger>
       </Act>
     </Story>
+
     <StopTrigger>
       <ConditionGroup>
-        <Condition name="criteria_RunningStopTest" delay="0" conditionEdge="rising">
-          <ByValueCondition>
-            <ParameterCondition parameterRef="" value="" rule="lessThan"/>
-          </ByValueCondition>
-        </Condition>
-        <Condition name="criteria_RunningRedLightTest" delay="0" conditionEdge="rising">
-          <ByValueCondition>
-            <ParameterCondition parameterRef="" value="" rule="lessThan"/>
-          </ByValueCondition>
-        </Condition>
-        <Condition name="criteria_WrongLaneTest" delay="0" conditionEdge="rising">
-          <ByValueCondition>
-            <ParameterCondition parameterRef="" value="" rule="lessThan"/>
-          </ByValueCondition>
-        </Condition>
-        <Condition name="criteria_OnSidewalkTest" delay="0" conditionEdge="rising">
-          <ByValueCondition>
-            <ParameterCondition parameterRef="" value="" rule="lessThan"/>
-          </ByValueCondition>
-        </Condition>
-        <Condition name="criteria_KeepLaneTest" delay="0" conditionEdge="rising">
-          <ByValueCondition>
-            <ParameterCondition parameterRef="" value="" rule="lessThan"/>
-          </ByValueCondition>
-        </Condition>
         <Condition name="criteria_CollisionTest" delay="0" conditionEdge="rising">
           <ByValueCondition>
             <ParameterCondition parameterRef="" value="" rule="lessThan"/>
-          </ByValueCondition>
-        </Condition>
-        <Condition name="criteria_DrivenDistanceTest" delay="0" conditionEdge="rising">
-          <ByValueCondition>
-            <ParameterCondition parameterRef="distance_success" value="100" rule="lessThan"/>
           </ByValueCondition>
         </Condition>
       </ConditionGroup>

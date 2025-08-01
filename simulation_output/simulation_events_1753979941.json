@@ -1,0 +1,92 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753979937.42",
+        "actor_id": 81594,
+        "actor_type": "vehicle.carlamotors.carlacola",
+        "other_actor_id": 81636,
+        "other_actor_type": "vehicle.kawasaki.ninja",
+        "impact_location": {
+            "x": -7.529999256134033,
+            "y": 142.19000244140625,
+            "z": 0.21954742074012756
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753979939.47",
+        "actor_id": 81594,
+        "actor_type": "vehicle.carlamotors.carlacola",
+        "other_actor_id": 81636,
+        "other_actor_type": "vehicle.kawasaki.ninja",
+        "impact_location": {
+            "x": -7.529710292816162,
+            "y": 142.18309020996094,
+            "z": 0.23601432144641876
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753979941.53",
+        "actor_id": 81594,
+        "actor_type": "vehicle.carlamotors.carlacola",
+        "other_actor_id": 81636,
+        "other_actor_type": "vehicle.kawasaki.ninja",
+        "impact_location": {
+            "x": -7.529613494873047,
+            "y": 142.1845703125,
+            "z": 0.23267120122909546
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

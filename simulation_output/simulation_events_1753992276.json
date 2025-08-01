@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753992276.23",
+        "actor_id": 33908,
+        "actor_type": "vehicle.ford.crown",
+        "other_actor_id": 33931,
+        "other_actor_type": "vehicle.tesla.cybertruck",
+        "impact_location": {
+            "x": 201.11476135253906,
+            "y": -279.71710205078125,
+            "z": 0.03847730532288551
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753976628.00",
+        "actor_id": 65307,
+        "actor_type": "vehicle.audi.a2",
+        "other_actor_id": 65334,
+        "other_actor_type": "vehicle.carlamotors.carlacola",
+        "impact_location": {
+            "x": 70.88042449951172,
+            "y": 241.27999877929688,
+            "z": 0.21274615824222565
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

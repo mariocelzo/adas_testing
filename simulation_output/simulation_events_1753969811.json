@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753969811.36",
+        "actor_id": 30035,
+        "actor_type": "vehicle.vespa.zx125",
+        "other_actor_id": 30064,
+        "other_actor_type": "vehicle.volkswagen.t2_2021",
+        "impact_location": {
+            "x": -16.701217651367188,
+            "y": -161.30970764160156,
+            "z": -0.0030816267244517803
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 90.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 0.0,
+            "fog_density": 50.0,
+            "sun_altitude_angle": -20.0
+        }
+    }
+]

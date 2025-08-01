@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753992900.55",
+        "actor_id": 36737,
+        "actor_type": "vehicle.seat.leon",
+        "other_actor_id": 36762,
+        "other_actor_type": "vehicle.mini.cooper_s",
+        "impact_location": {
+            "x": 78.0875015258789,
+            "y": 302.5402526855469,
+            "z": 0.21506111323833466
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

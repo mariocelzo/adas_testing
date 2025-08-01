@@ -1,0 +1,92 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753971175.66",
+        "actor_id": 37057,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 37184,
+        "other_actor_type": "vehicle.volkswagen.t2_2021",
+        "impact_location": {
+            "x": -90.77731323242188,
+            "y": 87.96279907226562,
+            "z": 0.00013628005399368703
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971177.73",
+        "actor_id": 37057,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 37184,
+        "other_actor_type": "vehicle.volkswagen.t2_2021",
+        "impact_location": {
+            "x": -90.77762603759766,
+            "y": 87.96282958984375,
+            "z": -0.0002847862197086215
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753971179.78",
+        "actor_id": 37057,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 37184,
+        "other_actor_type": "vehicle.volkswagen.t2_2021",
+        "impact_location": {
+            "x": -90.7769775390625,
+            "y": 87.96279907226562,
+            "z": 0.003179149469360709
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

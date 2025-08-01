@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753991750.71",
+        "actor_id": 31206,
+        "actor_type": "vehicle.ford.crown",
+        "other_actor_id": 31230,
+        "other_actor_type": "vehicle.nissan.patrol_2021",
+        "impact_location": {
+            "x": 151.402587890625,
+            "y": 105.55001068115234,
+            "z": 0.238972470164299
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 90.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 0.0,
+            "fog_density": 50.0,
+            "sun_altitude_angle": -20.0
+        }
+    }
+]

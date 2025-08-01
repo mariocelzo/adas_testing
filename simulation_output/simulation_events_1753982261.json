@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753982261.45",
+        "actor_id": 91051,
+        "actor_type": "vehicle.ford.ambulance",
+        "other_actor_id": 91110,
+        "other_actor_type": "vehicle.ford.ambulance",
+        "impact_location": {
+            "x": 181.05392456054688,
+            "y": -169.62603759765625,
+            "z": 0.19007976353168488
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

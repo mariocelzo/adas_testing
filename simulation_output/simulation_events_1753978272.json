@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753978265.58",
+        "actor_id": 73578,
+        "actor_type": "vehicle.harley-davidson.low_rider",
+        "other_actor_id": 73622,
+        "other_actor_type": "vehicle.nissan.patrol",
+        "impact_location": {
+            "x": 176.07150268554688,
+            "y": -2.4013049602508545,
+            "z": -0.028853395953774452
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

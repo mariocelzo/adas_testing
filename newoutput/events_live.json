@@ -1,0 +1,2917 @@
+{
+    "collisions": [
+        {
+            "timestamp": 1753781445.614293,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -102.0286636352539,
+                "y": -91.54734802246094,
+                "z": -0.01727662980556488
+            }
+        },
+        {
+            "timestamp": 1753781445.6270769,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -102.02863311767578,
+                "y": -91.54756927490234,
+                "z": -0.017979811877012253
+            }
+        },
+        {
+            "timestamp": 1753781445.638349,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -102.021484375,
+                "y": -91.55104064941406,
+                "z": -0.022496605291962624
+            }
+        },
+        {
+            "timestamp": 1753781445.6486077,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -102.00492095947266,
+                "y": -91.615234375,
+                "z": -0.007129684556275606
+            }
+        },
+        {
+            "timestamp": 1753781446.0429516,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6174087524414,
+                "y": -93.5015869140625,
+                "z": 0.0318162702023983
+            }
+        },
+        {
+            "timestamp": 1753781446.258072,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58546447753906,
+                "y": -93.61561584472656,
+                "z": 0.20041415095329285
+            }
+        },
+        {
+            "timestamp": 1753781446.2903283,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58364868164062,
+                "y": -93.61133575439453,
+                "z": 0.18449191749095917
+            }
+        },
+        {
+            "timestamp": 1753781446.3042011,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58436584472656,
+                "y": -93.60879516601562,
+                "z": 0.18041446805000305
+            }
+        },
+        {
+            "timestamp": 1753781446.3144367,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58504486083984,
+                "y": -93.60408020019531,
+                "z": 0.176644966006279
+            }
+        },
+        {
+            "timestamp": 1753781446.3267486,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58541107177734,
+                "y": -93.60041809082031,
+                "z": 0.17328521609306335
+            }
+        },
+        {
+            "timestamp": 1753781446.3380709,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58577728271484,
+                "y": -93.59662628173828,
+                "z": 0.1697535216808319
+            }
+        },
+        {
+            "timestamp": 1753781446.3478007,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58594512939453,
+                "y": -93.59228515625,
+                "z": 0.16607144474983215
+            }
+        },
+        {
+            "timestamp": 1753781446.3601165,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.5863037109375,
+                "y": -93.58839416503906,
+                "z": 0.16328538954257965
+            }
+        },
+        {
+            "timestamp": 1753781446.3725002,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58670043945312,
+                "y": -93.58445739746094,
+                "z": 0.16039569675922394
+            }
+        },
+        {
+            "timestamp": 1753781446.3827555,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58724975585938,
+                "y": -93.57939910888672,
+                "z": 0.15622250735759735
+            }
+        },
+        {
+            "timestamp": 1753781446.3950887,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58782958984375,
+                "y": -93.57540130615234,
+                "z": 0.15330511331558228
+            }
+        },
+        {
+            "timestamp": 1753781446.4063218,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.587890625,
+                "y": -93.57115936279297,
+                "z": 0.15013626217842102
+            }
+        },
+        {
+            "timestamp": 1753781446.4165993,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58782958984375,
+                "y": -93.56684112548828,
+                "z": 0.14589163661003113
+            }
+        },
+        {
+            "timestamp": 1753781446.42736,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58751678466797,
+                "y": -93.56324768066406,
+                "z": 0.14227953553199768
+            }
+        },
+        {
+            "timestamp": 1753781446.4391558,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58683013916016,
+                "y": -93.5601806640625,
+                "z": 0.13878628611564636
+            }
+        },
+        {
+            "timestamp": 1753781446.4488542,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58549499511719,
+                "y": -93.55632781982422,
+                "z": 0.13457633554935455
+            }
+        },
+        {
+            "timestamp": 1753781446.4580963,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.firetruck",
+            "location": {
+                "x": -103.58429718017578,
+                "y": -93.55252075195312,
+                "z": 0.13048529624938965
+            }
+        },
+        {
+            "timestamp": 1753781446.674356,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61140441894531,
+                "y": -93.52357482910156,
+                "z": -0.025525087490677834
+            }
+        },
+        {
+            "timestamp": 1753781446.684614,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61093139648438,
+                "y": -93.5235595703125,
+                "z": -0.03033509850502014
+            }
+        },
+        {
+            "timestamp": 1753781446.7137182,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60674285888672,
+                "y": -93.52484893798828,
+                "z": -0.035094983875751495
+            }
+        },
+        {
+            "timestamp": 1753781446.7259955,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60709381103516,
+                "y": -93.52491760253906,
+                "z": -0.03594789281487465
+            }
+        },
+        {
+            "timestamp": 1753781446.7383313,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6070785522461,
+                "y": -93.52508544921875,
+                "z": -0.03651819005608559
+            }
+        },
+        {
+            "timestamp": 1753781446.74813,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60707092285156,
+                "y": -93.5252685546875,
+                "z": -0.03688495233654976
+            }
+        },
+        {
+            "timestamp": 1753781446.7603784,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6070556640625,
+                "y": -93.5253677368164,
+                "z": -0.03701575845479965
+            }
+        },
+        {
+            "timestamp": 1753781446.7716877,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60697937011719,
+                "y": -93.52540588378906,
+                "z": -0.037099797278642654
+            }
+        },
+        {
+            "timestamp": 1753781446.782449,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60688018798828,
+                "y": -93.525390625,
+                "z": -0.037193771451711655
+            }
+        },
+        {
+            "timestamp": 1753781446.7926924,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60687255859375,
+                "y": -93.5253677368164,
+                "z": -0.037285879254341125
+            }
+        },
+        {
+            "timestamp": 1753781446.8028982,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60684967041016,
+                "y": -93.52536010742188,
+                "z": -0.03735009953379631
+            }
+        },
+        {
+            "timestamp": 1753781446.8152082,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60684967041016,
+                "y": -93.52533721923828,
+                "z": -0.037391506135463715
+            }
+        },
+        {
+            "timestamp": 1753781446.8244712,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60687255859375,
+                "y": -93.52532196044922,
+                "z": -0.037388283759355545
+            }
+        },
+        {
+            "timestamp": 1753781446.8346899,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60700988769531,
+                "y": -93.52535247802734,
+                "z": -0.03722839057445526
+            }
+        },
+        {
+            "timestamp": 1753781446.8475084,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60712432861328,
+                "y": -93.52543640136719,
+                "z": -0.03691783547401428
+            }
+        },
+        {
+            "timestamp": 1753781446.8572574,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60723114013672,
+                "y": -93.52556610107422,
+                "z": -0.0364951491355896
+            }
+        },
+        {
+            "timestamp": 1753781446.867527,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60726928710938,
+                "y": -93.52578735351562,
+                "z": -0.03582696616649628
+            }
+        },
+        {
+            "timestamp": 1753781446.880836,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60738372802734,
+                "y": -93.52594757080078,
+                "z": -0.035208240151405334
+            }
+        },
+        {
+            "timestamp": 1753781446.89116,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60745239257812,
+                "y": -93.526123046875,
+                "z": -0.03452874720096588
+            }
+        },
+        {
+            "timestamp": 1753781446.8999188,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60751342773438,
+                "y": -93.5263442993164,
+                "z": -0.0335860401391983
+            }
+        },
+        {
+            "timestamp": 1753781446.9106488,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6073226928711,
+                "y": -93.52661895751953,
+                "z": -0.032835766673088074
+            }
+        },
+        {
+            "timestamp": 1753781446.921971,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60746765136719,
+                "y": -93.52672576904297,
+                "z": -0.03225354850292206
+            }
+        },
+        {
+            "timestamp": 1753781446.9317534,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60739135742188,
+                "y": -93.52696228027344,
+                "z": -0.03138145059347153
+            }
+        },
+        {
+            "timestamp": 1753781446.9440298,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60740661621094,
+                "y": -93.52713775634766,
+                "z": -0.030586009845137596
+            }
+        },
+        {
+            "timestamp": 1753781446.954783,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60740661621094,
+                "y": -93.52728271484375,
+                "z": -0.02984078973531723
+            }
+        },
+        {
+            "timestamp": 1753781446.9651246,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60736083984375,
+                "y": -93.52745819091797,
+                "z": -0.028987348079681396
+            }
+        },
+        {
+            "timestamp": 1753781446.9764373,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60750579833984,
+                "y": -93.52755737304688,
+                "z": -0.028319260105490685
+            }
+        },
+        {
+            "timestamp": 1753781446.9882047,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60749816894531,
+                "y": -93.52766418457031,
+                "z": -0.027670379728078842
+            }
+        },
+        {
+            "timestamp": 1753781446.9984598,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60750579833984,
+                "y": -93.52777862548828,
+                "z": -0.026925045996904373
+            }
+        },
+        {
+            "timestamp": 1753781447.0108242,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60750579833984,
+                "y": -93.52784729003906,
+                "z": -0.02640380524098873
+            }
+        },
+        {
+            "timestamp": 1753781447.0226457,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60749816894531,
+                "y": -93.52791595458984,
+                "z": -0.025930363684892654
+            }
+        },
+        {
+            "timestamp": 1753781447.0333848,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60738372802734,
+                "y": -93.52798461914062,
+                "z": -0.0254866573959589
+            }
+        },
+        {
+            "timestamp": 1753781447.0451698,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60735321044922,
+                "y": -93.52801513671875,
+                "z": -0.025181671604514122
+            }
+        },
+        {
+            "timestamp": 1753781447.0559967,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60733032226562,
+                "y": -93.52801513671875,
+                "z": -0.024947412312030792
+            }
+        },
+        {
+            "timestamp": 1753781447.0672214,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6072998046875,
+                "y": -93.52800750732422,
+                "z": -0.024862419813871384
+            }
+        },
+        {
+            "timestamp": 1753781447.0789917,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60729217529297,
+                "y": -93.52802276611328,
+                "z": -0.024841686710715294
+            }
+        },
+        {
+            "timestamp": 1753781447.0897734,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60731506347656,
+                "y": -93.528076171875,
+                "z": -0.024741418659687042
+            }
+        },
+        {
+            "timestamp": 1753781447.0984433,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60726165771484,
+                "y": -93.5282211303711,
+                "z": -0.02450927533209324
+            }
+        },
+        {
+            "timestamp": 1753781447.1091921,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60690307617188,
+                "y": -93.52839660644531,
+                "z": -0.02437543496489525
+            }
+        },
+        {
+            "timestamp": 1753781447.1205082,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60700988769531,
+                "y": -93.52848052978516,
+                "z": -0.024203678593039513
+            }
+        },
+        {
+            "timestamp": 1753781447.130729,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60697174072266,
+                "y": -93.52864074707031,
+                "z": -0.023860661312937737
+            }
+        },
+        {
+            "timestamp": 1753781447.1429825,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60694885253906,
+                "y": -93.5287857055664,
+                "z": -0.02351583167910576
+            }
+        },
+        {
+            "timestamp": 1753781447.1547961,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60693359375,
+                "y": -93.52892303466797,
+                "z": -0.023142201825976372
+            }
+        },
+        {
+            "timestamp": 1753781447.1655762,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6068344116211,
+                "y": -93.52912139892578,
+                "z": -0.02266574651002884
+            }
+        },
+        {
+            "timestamp": 1753781447.1757789,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60682678222656,
+                "y": -93.52922821044922,
+                "z": -0.02230142243206501
+            }
+        },
+        {
+            "timestamp": 1753781447.1859457,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60674285888672,
+                "y": -93.52937316894531,
+                "z": -0.021883752197027206
+            }
+        },
+        {
+            "timestamp": 1753781447.1941714,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.606689453125,
+                "y": -93.52947998046875,
+                "z": -0.02151164785027504
+            }
+        },
+        {
+            "timestamp": 1753781447.2028694,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60639190673828,
+                "y": -93.52962493896484,
+                "z": -0.02127252332866192
+            }
+        },
+        {
+            "timestamp": 1753781447.2151484,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60649108886719,
+                "y": -93.52965545654297,
+                "z": -0.021066129207611084
+            }
+        },
+        {
+            "timestamp": 1753781447.2239058,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60624694824219,
+                "y": -93.52974700927734,
+                "z": -0.020930573344230652
+            }
+        },
+        {
+            "timestamp": 1753781447.2341428,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60621643066406,
+                "y": -93.5297622680664,
+                "z": -0.02077178657054901
+            }
+        },
+        {
+            "timestamp": 1753781447.2464707,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60618591308594,
+                "y": -93.5297622680664,
+                "z": -0.020698411390185356
+            }
+        },
+        {
+            "timestamp": 1753781447.2567446,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6061782836914,
+                "y": -93.52976989746094,
+                "z": -0.020629804581403732
+            }
+        },
+        {
+            "timestamp": 1753781447.2649395,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6061782836914,
+                "y": -93.52979278564453,
+                "z": -0.020521657541394234
+            }
+        },
+        {
+            "timestamp": 1753781447.2752,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60591888427734,
+                "y": -93.52989959716797,
+                "z": -0.02047567069530487
+            }
+        },
+        {
+            "timestamp": 1753781447.286974,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60602569580078,
+                "y": -93.5298843383789,
+                "z": -0.02043609321117401
+            }
+        },
+        {
+            "timestamp": 1753781447.295632,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6059341430664,
+                "y": -93.52993774414062,
+                "z": -0.020330406725406647
+            }
+        },
+        {
+            "timestamp": 1753781447.3059123,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60574340820312,
+                "y": -93.530029296875,
+                "z": -0.02027982473373413
+            }
+        },
+        {
+            "timestamp": 1753781447.3172724,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60586547851562,
+                "y": -93.53001403808594,
+                "z": -0.020237823948264122
+            }
+        },
+        {
+            "timestamp": 1753781447.329042,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60578155517578,
+                "y": -93.53007507324219,
+                "z": -0.020144669339060783
+            }
+        },
+        {
+            "timestamp": 1753781447.3408089,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60581970214844,
+                "y": -93.53007507324219,
+                "z": -0.020048042759299278
+            }
+        },
+        {
+            "timestamp": 1753781447.3510563,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60572814941406,
+                "y": -93.53014373779297,
+                "z": -0.0199282243847847
+            }
+        },
+        {
+            "timestamp": 1753781447.361865,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60572052001953,
+                "y": -93.53016662597656,
+                "z": -0.01981605403125286
+            }
+        },
+        {
+            "timestamp": 1753781447.3720832,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60572052001953,
+                "y": -93.53018188476562,
+                "z": -0.01969549059867859
+            }
+        },
+        {
+            "timestamp": 1753781447.3844175,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60572814941406,
+                "y": -93.53021240234375,
+                "z": -0.019586695358157158
+            }
+        },
+        {
+            "timestamp": 1753781447.3941865,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.605712890625,
+                "y": -93.53022003173828,
+                "z": -0.019475840032100677
+            }
+        },
+        {
+            "timestamp": 1753781447.4023778,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60575103759766,
+                "y": -93.53023529052734,
+                "z": -0.019361132755875587
+            }
+        },
+        {
+            "timestamp": 1753781447.4131472,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60551452636719,
+                "y": -93.53034973144531,
+                "z": -0.019311102107167244
+            }
+        },
+        {
+            "timestamp": 1753781447.423453,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60552215576172,
+                "y": -93.53038024902344,
+                "z": -0.019236868247389793
+            }
+        },
+        {
+            "timestamp": 1753781447.433172,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60547637939453,
+                "y": -93.5304183959961,
+                "z": -0.01913066767156124
+            }
+        },
+        {
+            "timestamp": 1753781447.4449942,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60547637939453,
+                "y": -93.53044891357422,
+                "z": -0.019020365551114082
+            }
+        },
+        {
+            "timestamp": 1753781447.455762,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60547637939453,
+                "y": -93.53047943115234,
+                "z": -0.018913056701421738
+            }
+        },
+        {
+            "timestamp": 1753781447.4655285,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60545349121094,
+                "y": -93.53052520751953,
+                "z": -0.018764322623610497
+            }
+        },
+        {
+            "timestamp": 1753781447.4772694,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60541534423828,
+                "y": -93.53058624267578,
+                "z": -0.018609941005706787
+            }
+        },
+        {
+            "timestamp": 1753781447.4870613,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60536193847656,
+                "y": -93.5306625366211,
+                "z": -0.018445070832967758
+            }
+        },
+        {
+            "timestamp": 1753781447.4972508,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60531616210938,
+                "y": -93.53076171875,
+                "z": -0.018238581717014313
+            }
+        },
+        {
+            "timestamp": 1753781447.50855,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60531616210938,
+                "y": -93.53083038330078,
+                "z": -0.0180452149361372
+            }
+        },
+        {
+            "timestamp": 1753781447.5208714,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60526275634766,
+                "y": -93.53089904785156,
+                "z": -0.017890337854623795
+            }
+        },
+        {
+            "timestamp": 1753781447.5311615,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60516357421875,
+                "y": -93.53094482421875,
+                "z": -0.017776621505618095
+            }
+        },
+        {
+            "timestamp": 1753781447.5413766,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60514068603516,
+                "y": -93.53096771240234,
+                "z": -0.01767793484032154
+            }
+        },
+        {
+            "timestamp": 1753781447.5536423,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60498046875,
+                "y": -93.53104400634766,
+                "z": -0.01765199564397335
+            }
+        },
+        {
+            "timestamp": 1753781447.5648644,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60496520996094,
+                "y": -93.53105163574219,
+                "z": -0.017597844824194908
+            }
+        },
+        {
+            "timestamp": 1753781447.5756533,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60496520996094,
+                "y": -93.53105163574219,
+                "z": -0.017552221193909645
+            }
+        },
+        {
+            "timestamp": 1753781447.5853672,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60494232177734,
+                "y": -93.53108978271484,
+                "z": -0.017488306388258934
+            }
+        },
+        {
+            "timestamp": 1753781447.595673,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60492706298828,
+                "y": -93.53112030029297,
+                "z": -0.017398985102772713
+            }
+        },
+        {
+            "timestamp": 1753781447.606485,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60484313964844,
+                "y": -93.53118133544922,
+                "z": -0.017300890758633614
+            }
+        },
+        {
+            "timestamp": 1753781447.6203964,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60478973388672,
+                "y": -93.5312271118164,
+                "z": -0.017226293683052063
+            }
+        },
+        {
+            "timestamp": 1753781447.630625,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60475158691406,
+                "y": -93.53128814697266,
+                "z": -0.017143094912171364
+            }
+        },
+        {
+            "timestamp": 1753781447.6434906,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60472106933594,
+                "y": -93.5313491821289,
+                "z": -0.017022093757987022
+            }
+        },
+        {
+            "timestamp": 1753781447.653951,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60470581054688,
+                "y": -93.53140258789062,
+                "z": -0.016898993402719498
+            }
+        },
+        {
+            "timestamp": 1753781447.6667578,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60453033447266,
+                "y": -93.5314712524414,
+                "z": -0.016830919310450554
+            }
+        },
+        {
+            "timestamp": 1753781447.6770098,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60450744628906,
+                "y": -93.531494140625,
+                "z": -0.016779497265815735
+            }
+        },
+        {
+            "timestamp": 1753781447.6893141,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6044692993164,
+                "y": -93.53152465820312,
+                "z": -0.016755178570747375
+            }
+        },
+        {
+            "timestamp": 1753781447.6990757,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60446166992188,
+                "y": -93.53154754638672,
+                "z": -0.016698988154530525
+            }
+        },
+        {
+            "timestamp": 1753781447.7077563,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6046142578125,
+                "y": -93.53152465820312,
+                "z": -0.016632765531539917
+            }
+        },
+        {
+            "timestamp": 1753781447.7195737,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60466766357422,
+                "y": -93.53150939941406,
+                "z": -0.016637742519378662
+            }
+        },
+        {
+            "timestamp": 1753781447.72935,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60475158691406,
+                "y": -93.5314712524414,
+                "z": -0.016592901200056076
+            }
+        },
+        {
+            "timestamp": 1753781447.7395716,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60478973388672,
+                "y": -93.5314712524414,
+                "z": -0.016573350876569748
+            }
+        },
+        {
+            "timestamp": 1753781447.7524178,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60482788085938,
+                "y": -93.5314712524414,
+                "z": -0.01656636968255043
+            }
+        },
+        {
+            "timestamp": 1753781447.7626967,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6048812866211,
+                "y": -93.5314712524414,
+                "z": -0.016578081995248795
+            }
+        },
+        {
+            "timestamp": 1753781447.7724626,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60492706298828,
+                "y": -93.5314712524414,
+                "z": -0.01657247357070446
+            }
+        },
+        {
+            "timestamp": 1753781447.784754,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60498046875,
+                "y": -93.5314712524414,
+                "z": -0.016572855412960052
+            }
+        },
+        {
+            "timestamp": 1753781447.7940154,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60502624511719,
+                "y": -93.5314712524414,
+                "z": -0.016577890142798424
+            }
+        },
+        {
+            "timestamp": 1753781447.8022308,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60507202148438,
+                "y": -93.53146362304688,
+                "z": -0.016581973060965538
+            }
+        },
+        {
+            "timestamp": 1753781447.8144894,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60511779785156,
+                "y": -93.5314712524414,
+                "z": -0.016635168343782425
+            }
+        },
+        {
+            "timestamp": 1753781447.8242483,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60516357421875,
+                "y": -93.5314712524414,
+                "z": -0.01665344089269638
+            }
+        },
+        {
+            "timestamp": 1753781447.8345664,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60525512695312,
+                "y": -93.53143310546875,
+                "z": -0.016647489741444588
+            }
+        },
+        {
+            "timestamp": 1753781447.8474116,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60530090332031,
+                "y": -93.53143310546875,
+                "z": -0.01664985530078411
+            }
+        },
+        {
+            "timestamp": 1753781447.8582387,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6053466796875,
+                "y": -93.53143310546875,
+                "z": -0.016661737114191055
+            }
+        },
+        {
+            "timestamp": 1753781447.869057,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60540771484375,
+                "y": -93.53143310546875,
+                "z": -0.01667909510433674
+            }
+        },
+        {
+            "timestamp": 1753781447.881351,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60545349121094,
+                "y": -93.53142547607422,
+                "z": -0.016685446724295616
+            }
+        },
+        {
+            "timestamp": 1753781447.8915634,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60550689697266,
+                "y": -93.53142547607422,
+                "z": -0.01669973134994507
+            }
+        },
+        {
+            "timestamp": 1753781447.9018652,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60550689697266,
+                "y": -93.53142547607422,
+                "z": -0.01669973134994507
+            }
+        },
+        {
+            "timestamp": 1753781447.9141834,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60556030273438,
+                "y": -93.53143310546875,
+                "z": -0.017175424844026566
+            }
+        },
+        {
+            "timestamp": 1753781447.923927,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60574340820312,
+                "y": -93.53143310546875,
+                "z": -0.017520921304821968
+            }
+        },
+        {
+            "timestamp": 1753781447.9342237,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60604858398438,
+                "y": -93.53140258789062,
+                "z": -0.01779802143573761
+            }
+        },
+        {
+            "timestamp": 1753781447.950145,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.606201171875,
+                "y": -93.5313720703125,
+                "z": -0.01795879192650318
+            }
+        },
+        {
+            "timestamp": 1753781447.9635386,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60628509521484,
+                "y": -93.5313720703125,
+                "z": -0.018090857192873955
+            }
+        },
+        {
+            "timestamp": 1753781447.9789968,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60636138916016,
+                "y": -93.5313720703125,
+                "z": -0.01820516400039196
+            }
+        },
+        {
+            "timestamp": 1753781448.0029945,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6064224243164,
+                "y": -93.5313720703125,
+                "z": -0.018252504989504814
+            }
+        },
+        {
+            "timestamp": 1753781448.024617,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60651397705078,
+                "y": -93.5313720703125,
+                "z": -0.018308447673916817
+            }
+        },
+        {
+            "timestamp": 1753781448.041672,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6065902709961,
+                "y": -93.53136444091797,
+                "z": -0.018342874944210052
+            }
+        },
+        {
+            "timestamp": 1753781448.0560853,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60667419433594,
+                "y": -93.53136444091797,
+                "z": -0.018397023901343346
+            }
+        },
+        {
+            "timestamp": 1753781448.0714736,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60675811767578,
+                "y": -93.5313491821289,
+                "z": -0.018408583477139473
+            }
+        },
+        {
+            "timestamp": 1753781448.0848954,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60680389404297,
+                "y": -93.53133392333984,
+                "z": -0.018381785601377487
+            }
+        },
+        {
+            "timestamp": 1753781448.099338,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60686492919922,
+                "y": -93.53133392333984,
+                "z": -0.018361223861575127
+            }
+        },
+        {
+            "timestamp": 1753781448.1101396,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6069107055664,
+                "y": -93.53133392333984,
+                "z": -0.018354203552007675
+            }
+        },
+        {
+            "timestamp": 1753781448.1219106,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60694885253906,
+                "y": -93.53133392333984,
+                "z": -0.018349798396229744
+            }
+        },
+        {
+            "timestamp": 1753781448.1348212,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60698699951172,
+                "y": -93.53132629394531,
+                "z": -0.01833772473037243
+            }
+        },
+        {
+            "timestamp": 1753781448.1467364,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60704040527344,
+                "y": -93.53132629394531,
+                "z": -0.0183209590613842
+            }
+        },
+        {
+            "timestamp": 1753781448.1593366,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60708618164062,
+                "y": -93.53132629394531,
+                "z": -0.018315676599740982
+            }
+        },
+        {
+            "timestamp": 1753781448.171234,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60713958740234,
+                "y": -93.53131866455078,
+                "z": -0.018298223614692688
+            }
+        },
+        {
+            "timestamp": 1753781448.1835153,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.607177734375,
+                "y": -93.53131866455078,
+                "z": -0.018287161365151405
+            }
+        },
+        {
+            "timestamp": 1753781448.1968822,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60721588134766,
+                "y": -93.53131866455078,
+                "z": -0.018260058015584946
+            }
+        },
+        {
+            "timestamp": 1753781448.207299,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60726165771484,
+                "y": -93.53131866455078,
+                "z": -0.018254278227686882
+            }
+        },
+        {
+            "timestamp": 1753781448.218622,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60731506347656,
+                "y": -93.53131866455078,
+                "z": -0.018241195008158684
+            }
+        },
+        {
+            "timestamp": 1753781448.2314634,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60735321044922,
+                "y": -93.53130340576172,
+                "z": -0.018216054886579514
+            }
+        },
+        {
+            "timestamp": 1753781448.241699,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60738372802734,
+                "y": -93.53130340576172,
+                "z": -0.01820281893014908
+            }
+        },
+        {
+            "timestamp": 1753781448.2524915,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60742950439453,
+                "y": -93.53130340576172,
+                "z": -0.018196580931544304
+            }
+        },
+        {
+            "timestamp": 1753781448.2653363,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60746765136719,
+                "y": -93.53130340576172,
+                "z": -0.01817716471850872
+            }
+        },
+        {
+            "timestamp": 1753781448.2750463,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60750579833984,
+                "y": -93.53130340576172,
+                "z": -0.018171118572354317
+            }
+        },
+        {
+            "timestamp": 1753781448.2852995,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60755920410156,
+                "y": -93.53130340576172,
+                "z": -0.01815751940011978
+            }
+        },
+        {
+            "timestamp": 1753781448.2950737,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60759735107422,
+                "y": -93.53130340576172,
+                "z": -0.0181475430727005
+            }
+        },
+        {
+            "timestamp": 1753781448.3206313,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60762786865234,
+                "y": -93.53131866455078,
+                "z": -0.018868330866098404
+            }
+        },
+        {
+            "timestamp": 1753781448.3329117,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60771179199219,
+                "y": -93.53133392333984,
+                "z": -0.019548606127500534
+            }
+        },
+        {
+            "timestamp": 1753781448.3421788,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60791778564453,
+                "y": -93.5313491821289,
+                "z": -0.020036084577441216
+            }
+        },
+        {
+            "timestamp": 1753781448.3523686,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60830688476562,
+                "y": -93.53129577636719,
+                "z": -0.02039245329797268
+            }
+        },
+        {
+            "timestamp": 1753781448.3652487,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60848999023438,
+                "y": -93.53128814697266,
+                "z": -0.02061721496284008
+            }
+        },
+        {
+            "timestamp": 1753781448.3760586,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60858917236328,
+                "y": -93.53128051757812,
+                "z": -0.020739857107400894
+            }
+        },
+        {
+            "timestamp": 1753781448.386417,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.608642578125,
+                "y": -93.53128051757812,
+                "z": -0.020823132246732712
+            }
+        },
+        {
+            "timestamp": 1753781448.39764,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60868072509766,
+                "y": -93.53128051757812,
+                "z": -0.020850788801908493
+            }
+        },
+        {
+            "timestamp": 1753781448.4090285,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60871887207031,
+                "y": -93.53128051757812,
+                "z": -0.020899713039398193
+            }
+        },
+        {
+            "timestamp": 1753781448.41933,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6087646484375,
+                "y": -93.53125,
+                "z": -0.020868871361017227
+            }
+        },
+        {
+            "timestamp": 1753781448.4342413,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6087875366211,
+                "y": -93.53123474121094,
+                "z": -0.0208563394844532
+            }
+        },
+        {
+            "timestamp": 1753781448.4434614,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6087875366211,
+                "y": -93.53123474121094,
+                "z": -0.020854832604527473
+            }
+        },
+        {
+            "timestamp": 1753781448.4557714,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60880279541016,
+                "y": -93.53125,
+                "z": -0.02084098570048809
+            }
+        },
+        {
+            "timestamp": 1753781448.4686215,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60884857177734,
+                "y": -93.53123474121094,
+                "z": -0.020808866247534752
+            }
+        },
+        {
+            "timestamp": 1753781448.47946,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6088638305664,
+                "y": -93.53123474121094,
+                "z": -0.020773809403181076
+            }
+        },
+        {
+            "timestamp": 1753781448.4907732,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60889434814453,
+                "y": -93.53123474121094,
+                "z": -0.020734326913952827
+            }
+        },
+        {
+            "timestamp": 1753781448.5052392,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60891723632812,
+                "y": -93.5312271118164,
+                "z": -0.020692020654678345
+            }
+        },
+        {
+            "timestamp": 1753781448.5140011,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60892486572266,
+                "y": -93.5312271118164,
+                "z": -0.020646054297685623
+            }
+        },
+        {
+            "timestamp": 1753781448.5253112,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60896301269531,
+                "y": -93.5312271118164,
+                "z": -0.020595910027623177
+            }
+        },
+        {
+            "timestamp": 1753781448.5396998,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60896301269531,
+                "y": -93.5312271118164,
+                "z": -0.020546890795230865
+            }
+        },
+        {
+            "timestamp": 1753781448.5483794,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60899353027344,
+                "y": -93.53121948242188,
+                "z": -0.02049003355205059
+            }
+        },
+        {
+            "timestamp": 1753781448.5611498,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60902404785156,
+                "y": -93.53121948242188,
+                "z": -0.02043679915368557
+            }
+        },
+        {
+            "timestamp": 1753781448.5729632,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6090316772461,
+                "y": -93.53121948242188,
+                "z": -0.02038015052676201
+            }
+        },
+        {
+            "timestamp": 1753781448.583708,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60906219482422,
+                "y": -93.53121185302734,
+                "z": -0.020318124443292618
+            }
+        },
+        {
+            "timestamp": 1753781448.595991,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60906219482422,
+                "y": -93.53121185302734,
+                "z": -0.020263802260160446
+            }
+        },
+        {
+            "timestamp": 1753781448.6078153,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60906982421875,
+                "y": -93.53121185302734,
+                "z": -0.0202043317258358
+            }
+        },
+        {
+            "timestamp": 1753781448.6180742,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60909271240234,
+                "y": -93.53121185302734,
+                "z": -0.02014617621898651
+            }
+        },
+        {
+            "timestamp": 1753781448.631916,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60909271240234,
+                "y": -93.53121185302734,
+                "z": -0.020092198625206947
+            }
+        },
+        {
+            "timestamp": 1753781448.6436906,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6091079711914,
+                "y": -93.53119659423828,
+                "z": -0.0200347863137722
+            }
+        },
+        {
+            "timestamp": 1753781448.6529212,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60913848876953,
+                "y": -93.53119659423828,
+                "z": -0.019982298836112022
+            }
+        },
+        {
+            "timestamp": 1753781448.6641593,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60913848876953,
+                "y": -93.53119659423828,
+                "z": -0.019929425790905952
+            }
+        },
+        {
+            "timestamp": 1753781448.675887,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60914611816406,
+                "y": -93.53119659423828,
+                "z": -0.01987823285162449
+            }
+        },
+        {
+            "timestamp": 1753781448.6877604,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60914611816406,
+                "y": -93.53119659423828,
+                "z": -0.019828660413622856
+            }
+        },
+        {
+            "timestamp": 1753781448.7005973,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60918426513672,
+                "y": -93.53118896484375,
+                "z": -0.019777391105890274
+            }
+        },
+        {
+            "timestamp": 1753781448.7124455,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60919952392578,
+                "y": -93.53118896484375,
+                "z": -0.019730795174837112
+            }
+        },
+        {
+            "timestamp": 1753781449.257714,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60919952392578,
+                "y": -93.53118896484375,
+                "z": -0.019730795174837112
+            }
+        },
+        {
+            "timestamp": 1753781449.2715757,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60919952392578,
+                "y": -93.53119659423828,
+                "z": -0.02056415192782879
+            }
+        },
+        {
+            "timestamp": 1753781449.2833488,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60932159423828,
+                "y": -93.53121948242188,
+                "z": -0.021481093019247055
+            }
+        },
+        {
+            "timestamp": 1753781449.2931142,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6095962524414,
+                "y": -93.5312271118164,
+                "z": -0.02198062837123871
+            }
+        },
+        {
+            "timestamp": 1753781449.3033187,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60994720458984,
+                "y": -93.53118896484375,
+                "z": -0.022292116656899452
+            }
+        },
+        {
+            "timestamp": 1753781449.3156416,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61005401611328,
+                "y": -93.53118133544922,
+                "z": -0.022455139085650444
+            }
+        },
+        {
+            "timestamp": 1753781449.3258798,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61009216308594,
+                "y": -93.53118896484375,
+                "z": -0.02253488451242447
+            }
+        },
+        {
+            "timestamp": 1753781449.3366916,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61014556884766,
+                "y": -93.53118133544922,
+                "z": -0.022592563182115555
+            }
+        },
+        {
+            "timestamp": 1753781449.3499632,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61014556884766,
+                "y": -93.53118133544922,
+                "z": -0.022626152262091637
+            }
+        },
+        {
+            "timestamp": 1753781449.3602312,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61013793945312,
+                "y": -93.53118133544922,
+                "z": -0.0226509477943182
+            }
+        },
+        {
+            "timestamp": 1753781449.371003,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61015319824219,
+                "y": -93.53116607666016,
+                "z": -0.022658633068203926
+            }
+        },
+        {
+            "timestamp": 1753781449.384878,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61016082763672,
+                "y": -93.53114318847656,
+                "z": -0.022639254108071327
+            }
+        },
+        {
+            "timestamp": 1753781449.394588,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61015319824219,
+                "y": -93.53112030029297,
+                "z": -0.022616710513830185
+            }
+        },
+        {
+            "timestamp": 1753781449.4048834,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61015319824219,
+                "y": -93.53108978271484,
+                "z": -0.02257564477622509
+            }
+        },
+        {
+            "timestamp": 1753781449.4172087,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61014556884766,
+                "y": -93.53105163574219,
+                "z": -0.02252853289246559
+            }
+        },
+        {
+            "timestamp": 1753781449.4279907,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61012268066406,
+                "y": -93.53102111816406,
+                "z": -0.022463474422693253
+            }
+        },
+        {
+            "timestamp": 1753781449.438737,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61009216308594,
+                "y": -93.53096771240234,
+                "z": -0.022383956238627434
+            }
+        },
+        {
+            "timestamp": 1753781449.4510233,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.61003875732422,
+                "y": -93.5309066772461,
+                "z": -0.022316092625260353
+            }
+        },
+        {
+            "timestamp": 1753781449.46188,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60993194580078,
+                "y": -93.5308609008789,
+                "z": -0.02224622666835785
+            }
+        },
+        {
+            "timestamp": 1753781449.47261,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60980987548828,
+                "y": -93.53080749511719,
+                "z": -0.02217988856136799
+            }
+        },
+        {
+            "timestamp": 1753781449.486457,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60975646972656,
+                "y": -93.5307388305664,
+                "z": -0.022142142057418823
+            }
+        },
+        {
+            "timestamp": 1753781449.497237,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60965728759766,
+                "y": -93.53067779541016,
+                "z": -0.022121790796518326
+            }
+        },
+        {
+            "timestamp": 1753781449.5085568,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60960388183594,
+                "y": -93.5306167602539,
+                "z": -0.022125910967588425
+            }
+        },
+        {
+            "timestamp": 1753781449.521943,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60953521728516,
+                "y": -93.53056335449219,
+                "z": -0.02211744338274002
+            }
+        },
+        {
+            "timestamp": 1753781449.533691,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60948181152344,
+                "y": -93.5304946899414,
+                "z": -0.022128695622086525
+            }
+        },
+        {
+            "timestamp": 1753781449.5464954,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60940551757812,
+                "y": -93.53044891357422,
+                "z": -0.022108515724539757
+            }
+        },
+        {
+            "timestamp": 1753781449.558801,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60929107666016,
+                "y": -93.5303955078125,
+                "z": -0.02207847498357296
+            }
+        },
+        {
+            "timestamp": 1753781449.5705898,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60916900634766,
+                "y": -93.53032684326172,
+                "z": -0.022055186331272125
+            }
+        },
+        {
+            "timestamp": 1753781449.584461,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6090316772461,
+                "y": -93.53028106689453,
+                "z": -0.022028539329767227
+            }
+        },
+        {
+            "timestamp": 1753781449.5946686,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60889434814453,
+                "y": -93.53022003173828,
+                "z": -0.022016847506165504
+            }
+        },
+        {
+            "timestamp": 1753781449.605484,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60881805419922,
+                "y": -93.53014373779297,
+                "z": -0.021982666105031967
+            }
+        },
+        {
+            "timestamp": 1753781449.6183054,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.6085205078125,
+                "y": -93.53009796142578,
+                "z": -0.021985948085784912
+            }
+        },
+        {
+            "timestamp": 1753781449.6290855,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60824584960938,
+                "y": -93.5300064086914,
+                "z": -0.02203986793756485
+            }
+        },
+        {
+            "timestamp": 1753781449.6403031,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60746002197266,
+                "y": -93.52999877929688,
+                "z": -0.022158505395054817
+            }
+        },
+        {
+            "timestamp": 1753781449.6536186,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60694122314453,
+                "y": -93.52993774414062,
+                "z": -0.022304780781269073
+            }
+        },
+        {
+            "timestamp": 1753781449.6643963,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60574340820312,
+                "y": -93.52999114990234,
+                "z": -0.022481437772512436
+            }
+        },
+        {
+            "timestamp": 1753781449.6756847,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60527801513672,
+                "y": -93.52989196777344,
+                "z": -0.022670438513159752
+            }
+        },
+        {
+            "timestamp": 1753781449.69005,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60469818115234,
+                "y": -93.52978515625,
+                "z": -0.022877976298332214
+            }
+        },
+        {
+            "timestamp": 1753781449.7002895,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60395050048828,
+                "y": -93.52965545654297,
+                "z": -0.023159043863415718
+            }
+        },
+        {
+            "timestamp": 1753781449.71161,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60289001464844,
+                "y": -93.52959442138672,
+                "z": -0.02346370369195938
+            }
+        },
+        {
+            "timestamp": 1753781449.7265267,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.60164642333984,
+                "y": -93.52957916259766,
+                "z": -0.0237735528498888
+            }
+        },
+        {
+            "timestamp": 1753781449.737784,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.5997543334961,
+                "y": -93.52958679199219,
+                "z": -0.024234691634774208
+            }
+        },
+        {
+            "timestamp": 1753781449.751637,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59832763671875,
+                "y": -93.52962493896484,
+                "z": -0.024598252028226852
+            }
+        },
+        {
+            "timestamp": 1753781449.7608354,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59718322753906,
+                "y": -93.52959442138672,
+                "z": -0.024987656623125076
+            }
+        },
+        {
+            "timestamp": 1753781449.7721024,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59591674804688,
+                "y": -93.529541015625,
+                "z": -0.02548709511756897
+            }
+        },
+        {
+            "timestamp": 1753781449.7854505,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59491729736328,
+                "y": -93.52948760986328,
+                "z": -0.025896279141306877
+            }
+        },
+        {
+            "timestamp": 1753781449.7973154,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59402465820312,
+                "y": -93.52940368652344,
+                "z": -0.026345573365688324
+            }
+        },
+        {
+            "timestamp": 1753781449.8080115,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59323120117188,
+                "y": -93.52928161621094,
+                "z": -0.02685285359621048
+            }
+        },
+        {
+            "timestamp": 1753781449.821905,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.592529296875,
+                "y": -93.5291748046875,
+                "z": -0.02727237343788147
+            }
+        },
+        {
+            "timestamp": 1753781449.831666,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59188079833984,
+                "y": -93.52906799316406,
+                "z": -0.027689853683114052
+            }
+        },
+        {
+            "timestamp": 1753781449.8429534,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59133911132812,
+                "y": -93.52896118164062,
+                "z": -0.028060242533683777
+            }
+        },
+        {
+            "timestamp": 1753781449.856261,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59087371826172,
+                "y": -93.52886199951172,
+                "z": -0.02839038521051407
+            }
+        },
+        {
+            "timestamp": 1753781449.86601,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.59017181396484,
+                "y": -93.52877807617188,
+                "z": -0.028744598850607872
+            }
+        },
+        {
+            "timestamp": 1753781449.876801,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58873748779297,
+                "y": -93.52881622314453,
+                "z": -0.02913081832230091
+            }
+        },
+        {
+            "timestamp": 1753781449.8912017,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58731079101562,
+                "y": -93.52886199951172,
+                "z": -0.029552513733506203
+            }
+        },
+        {
+            "timestamp": 1753781449.9003997,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58589935302734,
+                "y": -93.52889251708984,
+                "z": -0.030067821964621544
+            }
+        },
+        {
+            "timestamp": 1753781449.9122071,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58476257324219,
+                "y": -93.52888488769531,
+                "z": -0.03054645285010338
+            }
+        },
+        {
+            "timestamp": 1753781449.9260492,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58379364013672,
+                "y": -93.52887725830078,
+                "z": -0.030983921140432358
+            }
+        },
+        {
+            "timestamp": 1753781449.936257,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.5833740234375,
+                "y": -93.52877044677734,
+                "z": -0.03153274208307266
+            }
+        },
+        {
+            "timestamp": 1753781449.9511285,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58333587646484,
+                "y": -93.52864837646484,
+                "z": -0.03178476169705391
+            }
+        },
+        {
+            "timestamp": 1753781449.9608378,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58309936523438,
+                "y": -93.52857971191406,
+                "z": -0.031993500888347626
+            }
+        },
+        {
+            "timestamp": 1753781449.9721246,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58271026611328,
+                "y": -93.52849578857422,
+                "z": -0.032270561903715134
+            }
+        },
+        {
+            "timestamp": 1753781449.9859738,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58255004882812,
+                "y": -93.5284194946289,
+                "z": -0.03240392357110977
+            }
+        },
+        {
+            "timestamp": 1753781449.9957185,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58169555664062,
+                "y": -93.52840423583984,
+                "z": -0.03261100500822067
+            }
+        },
+        {
+            "timestamp": 1753781450.0074852,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58109283447266,
+                "y": -93.52836608886719,
+                "z": -0.03284963220357895
+            }
+        },
+        {
+            "timestamp": 1753781450.022858,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58081817626953,
+                "y": -93.52828979492188,
+                "z": -0.03301791846752167
+            }
+        },
+        {
+            "timestamp": 1753781450.0320761,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58068084716797,
+                "y": -93.52819061279297,
+                "z": -0.03315574303269386
+            }
+        },
+        {
+            "timestamp": 1753781450.043398,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58039855957031,
+                "y": -93.52812957763672,
+                "z": -0.03324580937623978
+            }
+        },
+        {
+            "timestamp": 1753781450.0561779,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.5802230834961,
+                "y": -93.52806091308594,
+                "z": -0.03331437706947327
+            }
+        },
+        {
+            "timestamp": 1753781450.0669236,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58043670654297,
+                "y": -93.52794647216797,
+                "z": -0.033323075622320175
+            }
+        },
+        {
+            "timestamp": 1753781450.0797625,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58039855957031,
+                "y": -93.52787780761719,
+                "z": -0.033291030675172806
+            }
+        },
+        {
+            "timestamp": 1753781450.0940926,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58004760742188,
+                "y": -93.52783966064453,
+                "z": -0.033286646008491516
+            }
+        },
+        {
+            "timestamp": 1753781450.1028404,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.58012390136719,
+                "y": -93.52774047851562,
+                "z": -0.033263031393289566
+            }
+        },
+        {
+            "timestamp": 1753781450.1156113,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.580078125,
+                "y": -93.5276870727539,
+                "z": -0.03320194035768509
+            }
+        },
+        {
+            "timestamp": 1753781450.1294816,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.57976531982422,
+                "y": -93.52763366699219,
+                "z": -0.03317197412252426
+            }
+        },
+        {
+            "timestamp": 1753781450.1387544,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.57955169677734,
+                "y": -93.52757263183594,
+                "z": -0.03315276652574539
+            }
+        },
+        {
+            "timestamp": 1753781450.1479592,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.5793228149414,
+                "y": -93.52752685546875,
+                "z": -0.03313495218753815
+            }
+        },
+        {
+            "timestamp": 1753781450.1628733,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.57894134521484,
+                "y": -93.52749633789062,
+                "z": -0.03314872458577156
+            }
+        },
+        {
+            "timestamp": 1753781450.173126,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.5784912109375,
+                "y": -93.52749633789062,
+                "z": -0.0331973060965538
+            }
+        },
+        {
+            "timestamp": 1753781450.1834173,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.57793426513672,
+                "y": -93.5274658203125,
+                "z": -0.03329869732260704
+            }
+        },
+        {
+            "timestamp": 1753781450.1977596,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.57746887207031,
+                "y": -93.52745819091797,
+                "z": -0.0333922915160656
+            }
+        },
+        {
+            "timestamp": 1753781450.2079406,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.57707977294922,
+                "y": -93.52745056152344,
+                "z": -0.033495042473077774
+            }
+        },
+        {
+            "timestamp": 1753781450.2207363,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.57664489746094,
+                "y": -93.52741241455078,
+                "z": -0.03362676128745079
+            }
+        },
+        {
+            "timestamp": 1753781450.231504,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.carlamotors.carlacola",
+            "location": {
+                "x": -103.57630920410156,
+                "y": -93.52739715576172,
+                "z": -0.033721596002578735
+            }
+        },
+        {
+            "timestamp": 1753781455.0524335,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "static.road",
+            "location": {
+                "x": -109.3548583984375,
+                "y": -92.85945129394531,
+                "z": 0.41817301511764526
+            }
+        },
+        {
+            "timestamp": 1753781456.2832878,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.mercedes.coupe_2020",
+            "location": {
+                "x": -112.83421325683594,
+                "y": -94.11136627197266,
+                "z": 0.6088204383850098
+            }
+        },
+        {
+            "timestamp": 1753781456.3197212,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "static.roadline",
+            "location": {
+                "x": -112.96422576904297,
+                "y": -94.2083969116211,
+                "z": 0.5867229104042053
+            }
+        },
+        {
+            "timestamp": 1753781456.6402698,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "static.road",
+            "location": {
+                "x": -113.15421295166016,
+                "y": -94.47809600830078,
+                "z": 0.3167664110660553
+            }
+        },
+        {
+            "timestamp": 1753781456.6669178,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "static.road",
+            "location": {
+                "x": -113.19573974609375,
+                "y": -94.50444030761719,
+                "z": 0.3263140022754669
+            }
+        },
+        {
+            "timestamp": 1753781456.6791894,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "static.road",
+            "location": {
+                "x": -113.21945190429688,
+                "y": -94.5289306640625,
+                "z": 0.3285364508628845
+            }
+        },
+        {
+            "timestamp": 1753781456.80255,
+            "actor": "vehicle.diamondback.century",
+            "other_actor": "vehicle.mercedes.coupe_2020",
+            "location": {
+                "x": -113.41010284423828,
+                "y": -94.7071762084961,
+                "z": 0.2860986888408661
+            }
+        }
+    ],
+    "overtakes": [],
+    "red_light_violations": [],
+    "u_turns": []
+}

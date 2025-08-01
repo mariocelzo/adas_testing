@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753993739.87",
+        "actor_id": 40165,
+        "actor_type": "vehicle.micro.microlino",
+        "other_actor_id": 40231,
+        "other_actor_type": "vehicle.mitsubishi.fusorosa",
+        "impact_location": {
+            "x": 67.5658187866211,
+            "y": 236.885009765625,
+            "z": 0.22102302312850952
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 5.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

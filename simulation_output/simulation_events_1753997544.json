@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753997544.88",
+        "actor_id": 58834,
+        "actor_type": "vehicle.tesla.model3",
+        "other_actor_id": 58857,
+        "other_actor_type": "vehicle.citroen.c3",
+        "impact_location": {
+            "x": 412.71893310546875,
+            "y": -95.34849548339844,
+            "z": 0.0013894843868911266
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    }
+]

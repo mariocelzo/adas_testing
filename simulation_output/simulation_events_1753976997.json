@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753976974.15",
+        "actor_id": 66517,
+        "actor_type": "vehicle.nissan.micra",
+        "other_actor_id": 66582,
+        "other_actor_type": "vehicle.audi.tt",
+        "impact_location": {
+            "x": -108.41058349609375,
+            "y": 136.3158721923828,
+            "z": -0.018647976219654083
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

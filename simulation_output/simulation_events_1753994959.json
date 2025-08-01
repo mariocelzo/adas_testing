@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753994959.50",
+        "actor_id": 46165,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 46329,
+        "other_actor_type": "walker.pedestrian.0002",
+        "impact_location": {
+            "x": 185.90196228027344,
+            "y": 121.53443908691406,
+            "z": 0.06922440975904465
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 80.0,
+            "precipitation": 70.0,
+            "precipitation_deposits": 50.0,
+            "wind_intensity": 30.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

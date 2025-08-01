@@ -1,0 +1,152 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753977138.93",
+        "actor_id": 67231,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 67261,
+        "other_actor_type": "vehicle.carlamotors.carlacola",
+        "impact_location": {
+            "x": 173.87005615234375,
+            "y": 105.55001068115234,
+            "z": 0.2150345891714096
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977140.95",
+        "actor_id": 67231,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 67261,
+        "other_actor_type": "vehicle.carlamotors.carlacola",
+        "impact_location": {
+            "x": 173.81544494628906,
+            "y": 105.54874420166016,
+            "z": 0.21307776868343353
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977143.02",
+        "actor_id": 67231,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 67261,
+        "other_actor_type": "vehicle.carlamotors.carlacola",
+        "impact_location": {
+            "x": 173.81642150878906,
+            "y": 105.55589294433594,
+            "z": 0.21365584433078766
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977145.09",
+        "actor_id": 67231,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 67261,
+        "other_actor_type": "vehicle.carlamotors.carlacola",
+        "impact_location": {
+            "x": 173.8141326904297,
+            "y": 105.55564880371094,
+            "z": 0.2115328162908554
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977147.12",
+        "actor_id": 67231,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 67261,
+        "other_actor_type": "vehicle.carlamotors.carlacola",
+        "impact_location": {
+            "x": 173.81544494628906,
+            "y": 105.55599975585938,
+            "z": 0.21640093624591827
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

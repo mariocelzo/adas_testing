@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753993709.72",
+        "actor_id": 39877,
+        "actor_type": "vehicle.audi.a2",
+        "other_actor_id": 39886,
+        "other_actor_type": "vehicle.mitsubishi.fusorosa",
+        "impact_location": {
+            "x": -27.4683837890625,
+            "y": -194.6807403564453,
+            "z": -0.001248264336027205
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 5.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

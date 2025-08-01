@@ -1,0 +1,62 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753975261.97",
+        "actor_id": 58762,
+        "actor_type": "vehicle.jeep.wrangler_rubicon",
+        "other_actor_id": 58854,
+        "other_actor_type": "vehicle.tesla.cybertruck",
+        "impact_location": {
+            "x": 18.250019073486328,
+            "y": 191.7699737548828,
+            "z": 0.22887369990348816
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753975263.98",
+        "actor_id": 58762,
+        "actor_type": "vehicle.jeep.wrangler_rubicon",
+        "other_actor_id": 58854,
+        "other_actor_type": "vehicle.tesla.cybertruck",
+        "impact_location": {
+            "x": 18.24695587158203,
+            "y": 191.7696075439453,
+            "z": 0.22530467808246613
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

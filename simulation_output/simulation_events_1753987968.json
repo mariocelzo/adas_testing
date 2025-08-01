@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753987968.55",
+        "actor_id": 12539,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 12563,
+        "other_actor_type": "vehicle.mitsubishi.fusorosa",
+        "impact_location": {
+            "x": 191.625244140625,
+            "y": -364.38134765625,
+            "z": -0.032866571098566055
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 90.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 0.0,
+            "fog_density": 50.0,
+            "sun_altitude_angle": -20.0
+        }
+    }
+]

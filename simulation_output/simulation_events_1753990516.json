@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753990516.01",
+        "actor_id": 25124,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 25219,
+        "other_actor_type": "vehicle.bh.crossbike",
+        "impact_location": {
+            "x": -8.595832824707031,
+            "y": 48.2006721496582,
+            "z": 0.0015139388851821423
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 90.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 0.0,
+            "fog_density": 50.0,
+            "sun_altitude_angle": -20.0
+        }
+    }
+]

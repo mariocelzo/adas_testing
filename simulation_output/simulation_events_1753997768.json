@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753997768.43",
+        "actor_id": 60047,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 60144,
+        "other_actor_type": "vehicle.ford.crown",
+        "impact_location": {
+            "x": -54.90443801879883,
+            "y": -2.8902523517608643,
+            "z": 0.04252420365810394
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

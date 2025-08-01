@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753968024.28",
+        "actor_id": 20871,
+        "actor_type": "vehicle.ford.crown",
+        "other_actor_id": 20907,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 14.679622650146484,
+            "y": -226.39794921875,
+            "z": 0.016735324636101723
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 90.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 0.0,
+            "fog_density": 50.0,
+            "sun_altitude_angle": -20.0
+        }
+    }
+]

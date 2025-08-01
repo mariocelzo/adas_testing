@@ -1,0 +1,182 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753969666.78",
+        "actor_id": 29414,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 29426,
+        "other_actor_type": "vehicle.dodge.charger_2020",
+        "impact_location": {
+            "x": 34.73466110229492,
+            "y": -196.6313018798828,
+            "z": -0.011401424184441566
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969668.81",
+        "actor_id": 29414,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 29426,
+        "other_actor_type": "vehicle.dodge.charger_2020",
+        "impact_location": {
+            "x": 34.8050537109375,
+            "y": -199.1913299560547,
+            "z": -0.011067104525864124
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969670.83",
+        "actor_id": 29414,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 29426,
+        "other_actor_type": "vehicle.dodge.charger_2020",
+        "impact_location": {
+            "x": 34.80489730834961,
+            "y": -199.19097900390625,
+            "z": -0.014233722351491451
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969672.83",
+        "actor_id": 29414,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 29426,
+        "other_actor_type": "vehicle.dodge.charger_2020",
+        "impact_location": {
+            "x": 34.804710388183594,
+            "y": -199.19541931152344,
+            "z": -0.010970325209200382
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969674.87",
+        "actor_id": 29414,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 29426,
+        "other_actor_type": "vehicle.dodge.charger_2020",
+        "impact_location": {
+            "x": 34.80466842651367,
+            "y": -199.1952362060547,
+            "z": -0.011500262655317783
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969676.94",
+        "actor_id": 29414,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 29426,
+        "other_actor_type": "vehicle.dodge.charger_2020",
+        "impact_location": {
+            "x": 34.804447174072266,
+            "y": -199.1968536376953,
+            "z": -0.01293119415640831
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

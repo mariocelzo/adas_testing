@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753995507.11",
+        "actor_id": 48522,
+        "actor_type": "vehicle.ford.crown",
+        "other_actor_id": 48649,
+        "other_actor_type": "vehicle.lincoln.mkz_2017",
+        "impact_location": {
+            "x": 233.2513885498047,
+            "y": 63.44644546508789,
+            "z": 0.033457811921834946
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

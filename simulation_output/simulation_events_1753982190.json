@@ -1,0 +1,212 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753982175.85",
+        "actor_id": 90771,
+        "actor_type": "vehicle.chevrolet.impala",
+        "other_actor_id": 90782,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 88.71000671386719,
+            "y": 241.27999877929688,
+            "z": 0.212163507938385
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982177.94",
+        "actor_id": 90771,
+        "actor_type": "vehicle.chevrolet.impala",
+        "other_actor_id": 90782,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 88.70877838134766,
+            "y": 241.28062438964844,
+            "z": 0.21280181407928467
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982179.98",
+        "actor_id": 90771,
+        "actor_type": "vehicle.chevrolet.impala",
+        "other_actor_id": 90782,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 88.70882415771484,
+            "y": 241.28106689453125,
+            "z": 0.21449854969978333
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982182.06",
+        "actor_id": 90771,
+        "actor_type": "vehicle.chevrolet.impala",
+        "other_actor_id": 90782,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 88.71092224121094,
+            "y": 241.28091430664062,
+            "z": 0.2125435620546341
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982184.12",
+        "actor_id": 90771,
+        "actor_type": "vehicle.chevrolet.impala",
+        "other_actor_id": 90782,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 88.7108154296875,
+            "y": 241.2809295654297,
+            "z": 0.20956668257713318
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982186.15",
+        "actor_id": 90771,
+        "actor_type": "vehicle.chevrolet.impala",
+        "other_actor_id": 90782,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 88.71074676513672,
+            "y": 241.28103637695312,
+            "z": 0.2137063890695572
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982188.20",
+        "actor_id": 90771,
+        "actor_type": "vehicle.chevrolet.impala",
+        "other_actor_id": 90782,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 88.71017456054688,
+            "y": 241.28111267089844,
+            "z": 0.21491611003875732
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

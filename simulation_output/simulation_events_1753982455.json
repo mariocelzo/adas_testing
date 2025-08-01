@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753982455.73",
+        "actor_id": 91613,
+        "actor_type": "vehicle.kawasaki.ninja",
+        "other_actor_id": 91612,
+        "other_actor_type": "vehicle.ford.crown",
+        "impact_location": {
+            "x": 110.55501556396484,
+            "y": 302.54779052734375,
+            "z": 0.21898816525936127
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 90.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 0.0,
+            "fog_density": 50.0,
+            "sun_altitude_angle": -20.0
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753968105.02",
+        "actor_id": 21239,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 21415,
+        "other_actor_type": "vehicle.mitsubishi.fusorosa",
+        "impact_location": {
+            "x": -51.085994720458984,
+            "y": -20.08134651184082,
+            "z": 0.09076619893312454
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

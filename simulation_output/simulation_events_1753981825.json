@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753981825.29",
+        "actor_id": 88806,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 88829,
+        "other_actor_type": "vehicle.mercedes.sprinter",
+        "impact_location": {
+            "x": -28.132091522216797,
+            "y": -198.400634765625,
+            "z": -0.011226443573832512
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

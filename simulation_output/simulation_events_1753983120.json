@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753983120.48",
+        "actor_id": 94559,
+        "actor_type": "vehicle.dodge.charger_police",
+        "other_actor_id": 94647,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": 136.92213439941406,
+            "y": 306.5555725097656,
+            "z": 0.18830159306526184
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 5.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

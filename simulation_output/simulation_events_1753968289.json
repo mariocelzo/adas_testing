@@ -1,0 +1,212 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753968278.14",
+        "actor_id": 22396,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 22492,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 170.82284545898438,
+            "y": 195.2700958251953,
+            "z": 0.03362707048654556
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968280.19",
+        "actor_id": 22396,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 22492,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 170.82017517089844,
+            "y": 195.27052307128906,
+            "z": 0.028941592201590538
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968282.22",
+        "actor_id": 22396,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 22492,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 170.8151092529297,
+            "y": 195.26991271972656,
+            "z": 0.028208179399371147
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968284.24",
+        "actor_id": 22396,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 22492,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 170.81190490722656,
+            "y": 195.2698211669922,
+            "z": 0.031798455864191055
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968285.93",
+        "actor_id": 22396,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 22445,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 170.81097412109375,
+            "y": 195.269775390625,
+            "z": 0.02698121964931488
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968286.27",
+        "actor_id": 22396,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 22492,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 170.80918884277344,
+            "y": 195.26947021484375,
+            "z": 0.0323905348777771
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968288.29",
+        "actor_id": 22396,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 22492,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 170.80804443359375,
+            "y": 195.26766967773438,
+            "z": 0.03106534853577614
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    }
+]

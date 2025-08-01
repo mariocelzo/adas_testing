@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753973116.92",
+        "actor_id": 48359,
+        "actor_type": "vehicle.gazelle.omafiets",
+        "other_actor_id": 48534,
+        "other_actor_type": "vehicle.kawasaki.ninja",
+        "impact_location": {
+            "x": -44.38951110839844,
+            "y": -69.5829849243164,
+            "z": 0.04247264936566353
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

@@ -47,8 +47,14 @@ def run_scenario(file_path, output_dir):
     env = os.environ.copy()
 
     # Percorso personalizzato agli agents della tua build
-    agents_path = r"C:\Users\SeSaLab Tesi\Documents\TesistiAntonioTrovato\adas_testing\WindowsNoEditor\PythonAPI\carla\agents"
-    env["PYTHONPATH"] = agents_path + os.pathsep + env.get("PYTHONPATH", "")
+    agents_path = r"C:\Users\SeSaLab Tesi\Documents\TesistiAntonioTrovato\adas_testing\WindowsNoEditor\PythonAPI\agents"
+    carla_pythonapi_path = r"C:\Users\SeSaLab Tesi\Documents\TesistiAntonioTrovato\adas_testing\WindowsNoEditor\PythonAPI"
+
+    env["PYTHONPATH"] = os.pathsep.join([
+        agents_path,
+        carla_pythonapi_path,
+        env.get("PYTHONPATH", "")
+    ])
 
     scenario_runner_path = os.path.abspath("scenario_runner-0.9.15/scenario_runner.py")
     scenario_file_path = os.path.abspath(file_path)

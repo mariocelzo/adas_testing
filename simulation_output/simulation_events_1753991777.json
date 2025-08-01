@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753991777.36",
+        "actor_id": 31542,
+        "actor_type": "vehicle.mercedes.coupe_2020",
+        "other_actor_id": 31672,
+        "other_actor_type": "walker.pedestrian.0006",
+        "impact_location": {
+            "x": 1.9741976261138916,
+            "y": 169.0260467529297,
+            "z": -0.0017154501983895898
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

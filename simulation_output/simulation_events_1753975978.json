@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753975978.81",
+        "actor_id": 62174,
+        "actor_type": "vehicle.dodge.charger_2020",
+        "other_actor_id": 62311,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 5.2430419921875,
+            "y": 37.696067810058594,
+            "z": 10.975595474243164
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

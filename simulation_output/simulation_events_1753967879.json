@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753967878.89",
+        "actor_id": 20233,
+        "actor_type": "vehicle.volkswagen.t2_2021",
+        "other_actor_id": 0,
+        "other_actor_type": "static.guardrail",
+        "impact_location": {
+            "x": 114.34037017822266,
+            "y": 40.27022933959961,
+            "z": 10.35989761352539
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

@@ -1,0 +1,3 @@
+Scenario completato: basic_movement.xosc
+Tempo di esecuzione: 15.58s
+Criticità: 0.0

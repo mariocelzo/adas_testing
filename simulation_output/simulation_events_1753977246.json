@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753977246.91",
+        "actor_id": 67826,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 67921,
+        "other_actor_type": "vehicle.mini.cooper_s_2021",
+        "impact_location": {
+            "x": 73.60755920410156,
+            "y": 187.5870819091797,
+            "z": 0.22398440539836884
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 90.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 0.0,
+            "fog_density": 50.0,
+            "sun_altitude_angle": -20.0
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753983355.61",
+        "actor_id": 95495,
+        "actor_type": "vehicle.diamondback.century",
+        "other_actor_id": 95511,
+        "other_actor_type": "vehicle.lincoln.mkz_2020",
+        "impact_location": {
+            "x": 405.4783020019531,
+            "y": -69.01664733886719,
+            "z": -0.01796075701713562
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    }
+]

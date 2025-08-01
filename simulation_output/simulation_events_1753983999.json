@@ -1,0 +1,182 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753983988.36",
+        "actor_id": 98789,
+        "actor_type": "vehicle.micro.microlino",
+        "other_actor_id": 98803,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 189.92999267578125,
+            "y": 266.4313659667969,
+            "z": 0.2231559008359909
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753983990.43",
+        "actor_id": 98789,
+        "actor_type": "vehicle.micro.microlino",
+        "other_actor_id": 98803,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 189.9305877685547,
+            "y": 266.42889404296875,
+            "z": 0.21290461719036102
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753983992.44",
+        "actor_id": 98789,
+        "actor_type": "vehicle.micro.microlino",
+        "other_actor_id": 98803,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 189.93167114257812,
+            "y": 266.4252014160156,
+            "z": 0.20749889314174652
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753983994.62",
+        "actor_id": 98789,
+        "actor_type": "vehicle.micro.microlino",
+        "other_actor_id": 98803,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 189.9335479736328,
+            "y": 266.4242858886719,
+            "z": 0.2000216245651245
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753983996.69",
+        "actor_id": 98789,
+        "actor_type": "vehicle.micro.microlino",
+        "other_actor_id": 98803,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 189.9336700439453,
+            "y": 266.4266052246094,
+            "z": 0.20611132681369781
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753983998.72",
+        "actor_id": 98789,
+        "actor_type": "vehicle.micro.microlino",
+        "other_actor_id": 98803,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 189.9335479736328,
+            "y": 266.4315490722656,
+            "z": 0.21288272738456726
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

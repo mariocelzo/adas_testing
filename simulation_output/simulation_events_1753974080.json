@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753974080.23",
+        "actor_id": 52596,
+        "actor_type": "vehicle.seat.leon",
+        "other_actor_id": 52782,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": -41.74406051635742,
+            "y": 1.3496204614639282,
+            "z": 0.021542338654398918
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753982052.57",
+        "actor_id": 89835,
+        "actor_type": "vehicle.mercedes.sprinter",
+        "other_actor_id": 89839,
+        "other_actor_type": "vehicle.dodge.charger_police",
+        "impact_location": {
+            "x": 231.2709197998047,
+            "y": 14.26545238494873,
+            "z": -0.02670709602534771
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982054.58",
+        "actor_id": 89835,
+        "actor_type": "vehicle.mercedes.sprinter",
+        "other_actor_id": 89839,
+        "other_actor_type": "vehicle.dodge.charger_police",
+        "impact_location": {
+            "x": 231.17489624023438,
+            "y": 14.263520240783691,
+            "z": -0.0339648611843586
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753982055.94",
+        "actor_id": 89835,
+        "actor_type": "vehicle.mercedes.sprinter",
+        "other_actor_id": 89885,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 231.1731414794922,
+            "y": 14.263664245605469,
+            "z": -0.034641169011592865
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

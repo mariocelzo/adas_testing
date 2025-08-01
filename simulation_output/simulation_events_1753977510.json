@@ -1,0 +1,242 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753977494.93",
+        "actor_id": 69530,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 69632,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 28.24062156677246,
+            "y": -30.18678855895996,
+            "z": -0.004890918731689453
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977496.96",
+        "actor_id": 69530,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 69632,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 28.242143630981445,
+            "y": -30.18760871887207,
+            "z": -0.004379901569336653
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977498.99",
+        "actor_id": 69530,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 69632,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 28.241867065429688,
+            "y": -30.187265396118164,
+            "z": -0.004753589630126953
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977501.05",
+        "actor_id": 69530,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 69632,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 28.24172019958496,
+            "y": -30.18712043762207,
+            "z": -0.005711383651942015
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977503.09",
+        "actor_id": 69530,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 69632,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 28.24167251586914,
+            "y": -30.187002182006836,
+            "z": -0.006373729556798935
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977505.21",
+        "actor_id": 69530,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 69632,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 28.24159049987793,
+            "y": -30.18694305419922,
+            "z": -0.007522449363023043
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977507.23",
+        "actor_id": 69530,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 69632,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 28.241535186767578,
+            "y": -30.186830520629883,
+            "z": -0.008214282803237438
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977509.37",
+        "actor_id": 69530,
+        "actor_type": "vehicle.ford.mustang",
+        "other_actor_id": 69632,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 28.241544723510742,
+            "y": -30.18663787841797,
+            "z": -0.007770481053739786
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 5.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

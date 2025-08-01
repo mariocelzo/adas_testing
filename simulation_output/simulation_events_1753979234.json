@@ -1,0 +1,62 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753979221.27",
+        "actor_id": 78269,
+        "actor_type": "vehicle.yamaha.yzf",
+        "other_actor_id": 78329,
+        "other_actor_type": "vehicle.dodge.charger_2020",
+        "impact_location": {
+            "x": 285.98065185546875,
+            "y": -118.37567138671875,
+            "z": -0.03499479219317436
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753979227.86",
+        "actor_id": 78269,
+        "actor_type": "vehicle.yamaha.yzf",
+        "other_actor_id": 0,
+        "other_actor_type": "static.guardrail",
+        "impact_location": {
+            "x": 318.4189758300781,
+            "y": -114.0994873046875,
+            "z": -0.039776820689439774
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753976548.63",
+        "actor_id": 64679,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 64852,
+        "other_actor_type": "vehicle.harley-davidson.low_rider",
+        "impact_location": {
+            "x": 153.45977783203125,
+            "y": -102.39595794677734,
+            "z": 7.9897990226745605
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753976550.64",
+        "actor_id": 64679,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 64852,
+        "other_actor_type": "vehicle.harley-davidson.low_rider",
+        "impact_location": {
+            "x": 153.4596710205078,
+            "y": -102.39471435546875,
+            "z": 7.9874138832092285
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

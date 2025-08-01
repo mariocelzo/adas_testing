@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753972284.10",
+        "actor_id": 43805,
+        "actor_type": "vehicle.carlamotors.carlacola",
+        "other_actor_id": 0,
+        "other_actor_type": "static.vegetation",
+        "impact_location": {
+            "x": 163.64849853515625,
+            "y": -1.1176068782806396,
+            "z": 0.03357618302106857
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 80.0,
+            "precipitation": 70.0,
+            "precipitation_deposits": 50.0,
+            "wind_intensity": 30.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

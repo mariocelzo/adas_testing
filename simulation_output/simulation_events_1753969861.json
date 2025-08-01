@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753969861.37",
+        "actor_id": 30397,
+        "actor_type": "vehicle.jeep.wrangler_rubicon",
+        "other_actor_id": 30462,
+        "other_actor_type": "vehicle.kawasaki.ninja",
+        "impact_location": {
+            "x": -73.50706481933594,
+            "y": -84.50485229492188,
+            "z": 0.011975002475082874
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

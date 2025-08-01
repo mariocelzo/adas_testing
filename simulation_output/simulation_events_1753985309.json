@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753985309.72",
+        "actor_id": 854,
+        "actor_type": "vehicle.ford.ambulance",
+        "other_actor_id": 913,
+        "other_actor_type": "vehicle.harley-davidson.low_rider",
+        "impact_location": {
+            "x": 143.0877685546875,
+            "y": 129.43325805664062,
+            "z": -0.004929821006953716
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 100.0,
+            "precipitation": 80.0,
+            "precipitation_deposits": 100.0,
+            "wind_intensity": 50.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

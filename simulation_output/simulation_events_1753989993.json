@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753989992.71",
+        "actor_id": 22825,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 22851,
+        "other_actor_type": "vehicle.mini.cooper_s",
+        "impact_location": {
+            "x": 7.925278663635254,
+            "y": -130.77432250976562,
+            "z": 0.03351110219955444
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    }
+]

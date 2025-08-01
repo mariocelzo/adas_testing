@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753997594.67",
+        "actor_id": 59104,
+        "actor_type": "vehicle.volkswagen.t2_2021",
+        "other_actor_id": 59162,
+        "other_actor_type": "vehicle.mini.cooper_s_2021",
+        "impact_location": {
+            "x": 5.546622276306152,
+            "y": 24.28878402709961,
+            "z": -0.0012886237818747759
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 3.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753968237.77",
+        "actor_id": 21984,
+        "actor_type": "vehicle.mini.cooper_s_2021",
+        "other_actor_id": 22039,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 1.5599950551986694,
+            "y": 79.32001495361328,
+            "z": 0.00374292372725904
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968241.98",
+        "actor_id": 21984,
+        "actor_type": "vehicle.mini.cooper_s_2021",
+        "other_actor_id": 22039,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 1.9355409145355225,
+            "y": 71.7005386352539,
+            "z": 0.0033268355764448643
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968244.03",
+        "actor_id": 21984,
+        "actor_type": "vehicle.mini.cooper_s_2021",
+        "other_actor_id": 22039,
+        "other_actor_type": "vehicle.carlamotors.firetruck",
+        "impact_location": {
+            "x": 2.283295154571533,
+            "y": 63.14368438720703,
+            "z": 0.0033229636028409004
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753968247.86",
+        "actor_id": 21984,
+        "actor_type": "vehicle.mini.cooper_s_2021",
+        "other_actor_id": 0,
+        "other_actor_type": "static.road",
+        "impact_location": {
+            "x": 3.050495147705078,
+            "y": 43.89335250854492,
+            "z": 1.4811984300613403
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    }
+]

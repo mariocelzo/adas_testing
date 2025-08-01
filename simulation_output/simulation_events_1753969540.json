@@ -1,0 +1,302 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753969523.07",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28514,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 237.6999969482422,
+            "y": 129.75,
+            "z": -0.005222949665039778
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969531.84",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28514,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 236.52281188964844,
+            "y": 129.7499237060547,
+            "z": -0.00462823873385787
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969533.31",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28587,
+        "other_actor_type": "vehicle.nissan.patrol",
+        "impact_location": {
+            "x": 233.6409912109375,
+            "y": 129.7509307861328,
+            "z": -0.004662036895751953
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969533.85",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28514,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 233.6844482421875,
+            "y": 129.75096130371094,
+            "z": -0.003808422014117241
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969535.32",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28587,
+        "other_actor_type": "vehicle.nissan.patrol",
+        "impact_location": {
+            "x": 233.61276245117188,
+            "y": 129.755615234375,
+            "z": -0.002786922501400113
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969535.86",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28514,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 233.61260986328125,
+            "y": 129.75634765625,
+            "z": 0.00025487897801212966
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969537.34",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28587,
+        "other_actor_type": "vehicle.nissan.patrol",
+        "impact_location": {
+            "x": 233.61227416992188,
+            "y": 129.75648498535156,
+            "z": -0.005538501776754856
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969537.87",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28514,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 233.61212158203125,
+            "y": 129.75674438476562,
+            "z": -0.006778964772820473
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969539.34",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28587,
+        "other_actor_type": "vehicle.nissan.patrol",
+        "impact_location": {
+            "x": 233.61119079589844,
+            "y": 129.75714111328125,
+            "z": -0.007884540595114231
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753969539.87",
+        "actor_id": 28462,
+        "actor_type": "vehicle.lincoln.mkz_2020",
+        "other_actor_id": 28514,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 233.61087036132812,
+            "y": 129.7573699951172,
+            "z": -0.007557201199233532
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    }
+]

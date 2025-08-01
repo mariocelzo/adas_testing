@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753971076.99",
+        "actor_id": 36301,
+        "actor_type": "vehicle.audi.a2",
+        "other_actor_id": 36393,
+        "other_actor_type": "vehicle.diamondback.century",
+        "impact_location": {
+            "x": -69.82644653320312,
+            "y": -3.8806495666503906,
+            "z": -0.02997075952589512
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 5.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753981951.89",
+        "actor_id": 89322,
+        "actor_type": "vehicle.lincoln.mkz_2017",
+        "other_actor_id": 89330,
+        "other_actor_type": "vehicle.carlamotors.carlacola",
+        "impact_location": {
+            "x": 157.32481384277344,
+            "y": 8.870759963989258,
+            "z": 0.03355760499835014
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

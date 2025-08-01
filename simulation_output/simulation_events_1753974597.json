@@ -1,0 +1,152 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753974588.73",
+        "actor_id": 55024,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 55035,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 21.420019149780273,
+            "y": 109.39998626708984,
+            "z": 0.2196492701768875
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753974592.13",
+        "actor_id": 55024,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 55045,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 21.42079734802246,
+            "y": 109.39994812011719,
+            "z": 0.22269488871097565
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753974594.20",
+        "actor_id": 55024,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 55045,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 21.42184829711914,
+            "y": 109.40074920654297,
+            "z": 0.21950237452983856
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753974596.14",
+        "actor_id": 55024,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 55035,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 21.421966552734375,
+            "y": 109.3998794555664,
+            "z": 0.21862345933914185
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753974596.21",
+        "actor_id": 55024,
+        "actor_type": "vehicle.nissan.patrol",
+        "other_actor_id": 55045,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 21.421613693237305,
+            "y": 109.3997802734375,
+            "z": 0.21895472705364227
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

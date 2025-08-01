@@ -1,0 +1,272 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753978717.42",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.88716888427734,
+            "y": 23.34423828125,
+            "z": 0.1291797161102295
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753978719.50",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.88825988769531,
+            "y": 23.343841552734375,
+            "z": 0.12568598985671997
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753978721.58",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.88826751708984,
+            "y": 23.34333038330078,
+            "z": 0.12888282537460327
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753978723.64",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.88823699951172,
+            "y": 23.342906951904297,
+            "z": 0.12915687263011932
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753978725.66",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.88822937011719,
+            "y": 23.34270477294922,
+            "z": 0.1284608095884323
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753978727.74",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.88818359375,
+            "y": 23.342557907104492,
+            "z": 0.12995783984661102
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753978730.08",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.8881607055664,
+            "y": 23.342071533203125,
+            "z": 0.128723606467247
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753978732.21",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.88811492919922,
+            "y": 23.341854095458984,
+            "z": 0.12900634109973907
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753978734.22",
+        "actor_id": 75567,
+        "actor_type": "vehicle.bmw.grandtourer",
+        "other_actor_id": 75579,
+        "other_actor_type": "vehicle.micro.microlino",
+        "impact_location": {
+            "x": -77.88809204101562,
+            "y": 23.34151268005371,
+            "z": 0.12903350591659546
+        },
+        "town": "Town03",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town03",
+            "traffic_lights": 38,
+            "approx_curves": 83,
+            "approx_junctions": 31,
+            "approx_roads": 248
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

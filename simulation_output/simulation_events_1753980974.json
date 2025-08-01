@@ -1,0 +1,62 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753980965.86",
+        "actor_id": 86024,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 86088,
+        "other_actor_type": "vehicle.ford.mustang",
+        "impact_location": {
+            "x": -9.625712394714355,
+            "y": -143.7458038330078,
+            "z": -0.011484661139547825
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753980970.45",
+        "actor_id": 86024,
+        "actor_type": "vehicle.audi.tt",
+        "other_actor_id": 86088,
+        "other_actor_type": "vehicle.ford.mustang",
+        "impact_location": {
+            "x": -9.674127578735352,
+            "y": -142.82803344726562,
+            "z": -0.011274241842329502
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    }
+]

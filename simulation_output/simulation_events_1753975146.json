@@ -1,0 +1,92 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753975125.89",
+        "actor_id": 57750,
+        "actor_type": "vehicle.harley-davidson.low_rider",
+        "other_actor_id": 57759,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 272.2889099121094,
+            "y": 59.32978057861328,
+            "z": -0.02870195358991623
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753975131.94",
+        "actor_id": 57750,
+        "actor_type": "vehicle.harley-davidson.low_rider",
+        "other_actor_id": 57759,
+        "other_actor_type": "vehicle.dodge.charger_police_2020",
+        "impact_location": {
+            "x": 280.5787353515625,
+            "y": 59.24020004272461,
+            "z": -0.02975328452885151
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753975145.10",
+        "actor_id": 57750,
+        "actor_type": "vehicle.harley-davidson.low_rider",
+        "other_actor_id": 0,
+        "other_actor_type": "static.sidewalk",
+        "impact_location": {
+            "x": 341.64215087890625,
+            "y": 58.796043395996094,
+            "z": 0.9354977011680603
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    }
+]

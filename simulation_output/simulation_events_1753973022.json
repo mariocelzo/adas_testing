@@ -1,0 +1,242 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753973007.29",
+        "actor_id": 47993,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 48063,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 405.4783020019531,
+            "y": -69.01839447021484,
+            "z": 0.00226560584269464
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973009.31",
+        "actor_id": 47993,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 48063,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 405.4506530761719,
+            "y": -69.0174331665039,
+            "z": 0.0019260597182437778
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973011.35",
+        "actor_id": 47993,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 48063,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 405.4480895996094,
+            "y": -69.0179443359375,
+            "z": -0.0013271140633150935
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973013.63",
+        "actor_id": 47993,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 48063,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 405.44732666015625,
+            "y": -69.01815032958984,
+            "z": -0.0017170906066894531
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973015.71",
+        "actor_id": 47993,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 48063,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 405.447265625,
+            "y": -69.01819610595703,
+            "z": -0.003724384121596813
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973017.75",
+        "actor_id": 47993,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 48063,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 405.4472961425781,
+            "y": -69.01819610595703,
+            "z": -0.0027942084707319736
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973019.79",
+        "actor_id": 47993,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 48063,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 405.447265625,
+            "y": -69.01820373535156,
+            "z": -3.831863432424143e-05
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973021.92",
+        "actor_id": 47993,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 48063,
+        "other_actor_type": "vehicle.toyota.prius",
+        "impact_location": {
+            "x": 405.447265625,
+            "y": -69.01821899414062,
+            "z": -0.0029062461107969284
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    }
+]

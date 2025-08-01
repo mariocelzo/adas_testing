@@ -1,0 +1,242 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753973794.94",
+        "actor_id": 51344,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 51370,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 142.3605499267578,
+            "y": 198.75999450683594,
+            "z": 0.042871151119470596
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973796.95",
+        "actor_id": 51344,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 51370,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 142.36605834960938,
+            "y": 198.75747680664062,
+            "z": 0.040540751069784164
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973799.02",
+        "actor_id": 51344,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 51370,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 142.36607360839844,
+            "y": 198.75747680664062,
+            "z": 0.04075898975133896
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973801.03",
+        "actor_id": 51344,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 51370,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 142.36605834960938,
+            "y": 198.7574920654297,
+            "z": 0.0404047966003418
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973803.10",
+        "actor_id": 51344,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 51370,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 142.3660430908203,
+            "y": 198.7574920654297,
+            "z": 0.039182186126708984
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973805.17",
+        "actor_id": 51344,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 51370,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 142.3660430908203,
+            "y": 198.7574920654297,
+            "z": 0.03922014310956001
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973807.29",
+        "actor_id": 51344,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 51370,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 142.36602783203125,
+            "y": 198.7574920654297,
+            "z": 0.04030206426978111
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753973809.32",
+        "actor_id": 51344,
+        "actor_type": "vehicle.mini.cooper_s",
+        "other_actor_id": 51370,
+        "other_actor_type": "vehicle.chevrolet.impala",
+        "impact_location": {
+            "x": 142.3660430908203,
+            "y": 198.7574920654297,
+            "z": 0.03945466876029968
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    }
+]

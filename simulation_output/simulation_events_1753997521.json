@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753997521.01",
+        "actor_id": 58525,
+        "actor_type": "vehicle.audi.etron",
+        "other_actor_id": 58615,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 340.99554443359375,
+            "y": 330.6083984375,
+            "z": -0.009462070651352406
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 80.0,
+            "precipitation": 70.0,
+            "precipitation_deposits": 50.0,
+            "wind_intensity": 30.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

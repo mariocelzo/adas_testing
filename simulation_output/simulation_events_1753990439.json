@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753990439.59",
+        "actor_id": 24898,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 24936,
+        "other_actor_type": "vehicle.mercedes.coupe_2020",
+        "impact_location": {
+            "x": 34.853363037109375,
+            "y": 109.44886779785156,
+            "z": 0.25879326462745667
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 5.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 2.0,
+            "sun_altitude_angle": 45.0
+        }
+    }
+]

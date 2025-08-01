@@ -1,0 +1,122 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753977322.44",
+        "actor_id": 68517,
+        "actor_type": "vehicle.harley-davidson.low_rider",
+        "other_actor_id": 68544,
+        "other_actor_type": "vehicle.tesla.cybertruck",
+        "impact_location": {
+            "x": 170.8217315673828,
+            "y": 198.75999450683594,
+            "z": -0.028808269649744034
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977325.99",
+        "actor_id": 68517,
+        "actor_type": "vehicle.harley-davidson.low_rider",
+        "other_actor_id": 68544,
+        "other_actor_type": "vehicle.tesla.cybertruck",
+        "impact_location": {
+            "x": 177.2825927734375,
+            "y": 200.20489501953125,
+            "z": -0.029775675386190414
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977328.91",
+        "actor_id": 68517,
+        "actor_type": "vehicle.harley-davidson.low_rider",
+        "other_actor_id": 0,
+        "other_actor_type": "static.vegetation",
+        "impact_location": {
+            "x": 188.14749145507812,
+            "y": 203.19032287597656,
+            "z": 0.09044793993234634
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753977331.17",
+        "actor_id": 68517,
+        "actor_type": "vehicle.harley-davidson.low_rider",
+        "other_actor_id": 0,
+        "other_actor_type": "static.vegetation",
+        "impact_location": {
+            "x": 188.14552307128906,
+            "y": 203.12033081054688,
+            "z": 0.0983208641409874
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    }
+]

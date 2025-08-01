@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753989045.46",
+        "actor_id": 17776,
+        "actor_type": "vehicle.ford.ambulance",
+        "other_actor_id": 17808,
+        "other_actor_type": "vehicle.nissan.micra",
+        "impact_location": {
+            "x": 300.82318115234375,
+            "y": 199.15638732910156,
+            "z": -0.006624622270464897
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753974979.83",
+        "actor_id": 56975,
+        "actor_type": "vehicle.mini.cooper_s_2021",
+        "other_actor_id": 57034,
+        "other_actor_type": "vehicle.audi.etron",
+        "impact_location": {
+            "x": 395.9599914550781,
+            "y": 164.1699981689453,
+            "z": 0.0037772178184241056
+        },
+        "town": "Town01",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town01",
+            "traffic_lights": 36,
+            "approx_curves": 28,
+            "approx_junctions": 12,
+            "approx_roads": 98
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 60.0,
+            "precipitation": 40.0,
+            "precipitation_deposits": 40.0,
+            "wind_intensity": 30.0,
+            "fog_density": 5.0,
+            "sun_altitude_angle": 20.0
+        }
+    }
+]

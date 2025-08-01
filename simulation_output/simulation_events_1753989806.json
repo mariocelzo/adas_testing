@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753989805.38",
+        "actor_id": 21979,
+        "actor_type": "vehicle.toyota.prius",
+        "other_actor_id": 22019,
+        "other_actor_type": "vehicle.tesla.model3",
+        "impact_location": {
+            "x": -7.529999732971191,
+            "y": 219.40997314453125,
+            "z": 0.2564677894115448
+        },
+        "town": "Town02",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town02",
+            "traffic_lights": 24,
+            "approx_curves": 17,
+            "approx_junctions": 8,
+            "approx_roads": 68
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 0.0,
+            "wind_intensity": 10.0,
+            "fog_density": 10.0,
+            "sun_altitude_angle": 30.0
+        }
+    }
+]

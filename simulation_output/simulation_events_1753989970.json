@@ -1,0 +1,32 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753989969.96",
+        "actor_id": 22519,
+        "actor_type": "vehicle.nissan.patrol_2021",
+        "other_actor_id": 22568,
+        "other_actor_type": "vehicle.seat.leon",
+        "impact_location": {
+            "x": 7.195498466491699,
+            "y": -87.8798599243164,
+            "z": 0.0022440338507294655
+        },
+        "town": "Town05",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town05",
+            "traffic_lights": 54,
+            "approx_curves": 75,
+            "approx_junctions": 21,
+            "approx_roads": 259
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 70.0,
+            "precipitation": 20.0,
+            "precipitation_deposits": 30.0,
+            "wind_intensity": 0.0,
+            "fog_density": 0.0,
+            "sun_altitude_angle": 0.0
+        }
+    }
+]

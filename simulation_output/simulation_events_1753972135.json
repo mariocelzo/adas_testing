@@ -1,0 +1,122 @@
+[
+    {
+        "event_type": "collision",
+        "timestamp": "1753972115.94",
+        "actor_id": 43221,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 43229,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 284.54742431640625,
+            "y": -172.53697204589844,
+            "z": 0.23513422906398773
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753972119.62",
+        "actor_id": 43221,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 43229,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 283.5027770996094,
+            "y": -172.5439453125,
+            "z": 0.23453666269779205
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753972123.74",
+        "actor_id": 43221,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 43229,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 281.7911376953125,
+            "y": -172.55279541015625,
+            "z": 0.2345191091299057
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "straight",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    },
+    {
+        "event_type": "collision",
+        "timestamp": "1753972129.87",
+        "actor_id": 43221,
+        "actor_type": "vehicle.citroen.c3",
+        "other_actor_id": 43229,
+        "other_actor_type": "vehicle.vespa.zx125",
+        "impact_location": {
+            "x": 275.55364990234375,
+            "y": -172.5878448486328,
+            "z": 0.23454077541828156
+        },
+        "town": "Town04",
+        "town_characteristics": {
+            "map_name": "Carla/Maps/Town04",
+            "traffic_lights": 43,
+            "approx_curves": 49,
+            "approx_junctions": 27,
+            "approx_roads": 242
+        },
+        "road_type_at_collision": "curve",
+        "weather": {
+            "cloudiness": 10.0,
+            "precipitation": 0.0,
+            "precipitation_deposits": 10.0,
+            "wind_intensity": 30.0,
+            "fog_density": 40.0,
+            "sun_altitude_angle": 60.0
+        }
+    }
+]
