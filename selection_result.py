@@ -1,7 +1,10 @@
 import os
 import json
+import sys
+
 import numpy as np
 import pandas as pd
+import sklearn
 from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
 from sklearn.metrics import pairwise_distances
 from datetime import datetime
@@ -260,6 +263,28 @@ if __name__ == "__main__":
             "total_execution_time_seconds": f"{sum(exec_times):.2f}",
             "sum_diversity_scores": f"{sum(divs):.3f}"
         },
+        "all_input_scenarios": [  # NUOVO: salva tutti gli scenari originali
+            {
+                "index": i,
+                "filename": s.get('original_filename', 'N/A'),
+                "event_type": s.get('event_type', 'N/A'),
+                "collision_flag": collisions[i],
+                "execution_time": exec_times[i],
+                "diversity_score": f"{divs[i]:.3f}",
+                "full_data": s  # Tutti i dati dello scenario
+            }
+            for i, s in enumerate(all_scenarios)
+        ],
+
+    "greedy_algorithm_metrics": {
+        "max_exec_time": max_exec_time,
+        "execution_timestamp": current_timestamp,
+        "python_version": sys.version.split()[0],
+        "numpy_version": np.__version__,
+        "pandas_version": pd.__version__,
+        "sklearn_version": sklearn.__version__
+    },
+
         "selected_suite_stats": {
             "num_selected_scenarios": len(selected_scenario_indices),
             "selected_scenario_indices": selected_scenario_indices,
@@ -267,22 +292,23 @@ if __name__ == "__main__":
             "total_execution_time_seconds": f"{sum(selected_exec_times):.2f}",
             "sum_diversity_scores": f"{sum(selected_divs):.3f}"
         },
-        "details_of_selected_scenarios": []
+        "details_of_selected_scenarios": [
+            {
+                "index_in_original_list": idx,
+                "original_filename": all_scenarios[idx].get('original_filename', 'N/A'),
+                "event_type": all_scenarios[idx].get('event_type', 'N/A'),
+                "timestamp_of_event": all_scenarios[idx].get('timestamp', 'N/A'),
+                "map_town": all_scenarios[idx].get('town', 'N/A'),
+                "road_type_at_collision": all_scenarios[idx].get('road_type_at_collision', 'N/A'),
+                "weather_details": all_scenarios[idx].get('weather', {}),
+                "town_characteristics": all_scenarios[idx].get('town_characteristics', {}),
+                "diversity_score": f"{divs[idx]:.3f}",
+                "collision_flag": collisions[idx],
+                "execution_time": exec_times[idx]
+            }
+            for idx in selected_scenario_indices
+        ]
     }
-
-    for idx in selected_scenario_indices:
-        scenario_data = all_scenarios[idx]
-        analysis_results["details_of_selected_scenarios"].append({
-            "index_in_original_list": idx,
-            "original_filename": scenario_data.get('original_filename', 'N/A'),
-            "event_type": scenario_data.get('event_type', 'N/A'),
-            "timestamp_of_event": scenario_data.get('timestamp', 'N/A'),
-            "map_town": scenario_data.get('town', 'N/A'),
-            "road_type_at_collision": scenario_data.get('road_type_at_collision', 'N/A'),
-            "weather_details": scenario_data.get('weather', {}),
-            "town_characteristics": scenario_data.get('town_characteristics', {}),
-            "diversity_score": f"{divs[idx]:.3f}"
-        })
 
     output_json_filename = os.path.join(analysis_output_folder, 'analysis_report.json')
     with open(output_json_filename, 'w') as f:
